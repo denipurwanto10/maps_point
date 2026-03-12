@@ -1,0 +1,7252 @@
+[
+ {
+  "ID": "LOC1",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Aceh Barat Daya",
+  "Kecamatan": "Kecamatan Kuala Batee",
+  "Desa": "Desa Ie Mameh",
+  "Koordinat": "3.76563055555555,96.78165"
+ },
+ {
+  "ID": "LOC2",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Aceh Barat",
+  "Kecamatan": "Kecamatan Panton Rheu",
+  "Desa": "Desa Meutualang",
+  "Koordinat": "4.40631666666666,96.2052666666666"
+ },
+ {
+  "ID": "LOC3",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Aceh Barat",
+  "Kecamatan": "Kecamatan Woyla Timur",
+  "Desa": "Desa Pasi Janeng",
+  "Koordinat": "4.45861111111111,96.0597222222222"
+ },
+ {
+  "ID": "LOC4",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Aceh Besar",
+  "Kecamatan": "Kecamatan Blang Bintang",
+  "Desa": "Desa Cot Karieng",
+  "Koordinat": "5.50795,95.4108166666666"
+ },
+ {
+  "ID": "LOC5",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Aceh Besar",
+  "Kecamatan": "Kecamatan Kuta Cot Glie",
+  "Desa": "Desa Lam Leupung",
+  "Koordinat": "5.50795,95.4108166666666"
+ },
+ {
+  "ID": "LOC6",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Aceh Selatan",
+  "Kecamatan": "Kecamatan Klut Utara",
+  "Desa": "Desa Simpang Lhee",
+  "Koordinat": "3.08286111111111,97.3218888888888"
+ },
+ {
+  "ID": "LOC7",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Aceh Singkil",
+  "Kecamatan": "Kecamatan Singkil",
+  "Desa": "Desa Kilang",
+  "Koordinat": "2.28557777777777,97.773575"
+ },
+ {
+  "ID": "LOC8",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Aceh Tamiang",
+  "Kecamatan": "Kecamatan Banda Mulia",
+  "Desa": "Desa Alur Nunang",
+  "Koordinat": "4.44858333333333,98.1330555555555"
+ },
+ {
+  "ID": "LOC9",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Aceh Tamiang",
+  "Kecamatan": "Kecamatan Rantau",
+  "Desa": "Desa Durian",
+  "Koordinat": "4.29831666666666,98.0817166666666"
+ },
+ {
+  "ID": "LOC10",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Aceh Tenggara",
+  "Kecamatan": "Kecamatan Babussalam",
+  "Desa": "Desa Lingkungan IV",
+  "Koordinat": "3.36666666666666,97.6833333333333"
+ },
+ {
+  "ID": "LOC11",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Aceh Tenggara",
+  "Kecamatan": "Kecamatan Lauser",
+  "Desa": "Desa Lawe Serakut",
+  "Koordinat": "3.57213888888888,97.0336111111111"
+ },
+ {
+  "ID": "LOC12",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Aceh Tenggara",
+  "Kecamatan": "Kecamatan Lauser",
+  "Desa": "Desa Lawe Serakut",
+  "Koordinat": "3.12711111111111,97.9029444444444"
+ },
+ {
+  "ID": "LOC13",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Aceh Timur",
+  "Kecamatan": "Kecamatan Parelak",
+  "Desa": "Desa Leuge",
+  "Koordinat": "4.80708333333333,97.8988333333333"
+ },
+ {
+  "ID": "LOC14",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Aceh Timur",
+  "Kecamatan": "Kecamatan Rantau Selamat",
+  "Desa": "Desa Bayeun",
+  "Koordinat": "4.61666666666666,97.6166666666666"
+ },
+ {
+  "ID": "LOC15",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Aceh Timur",
+  "Kecamatan": "Kecamatan Sungai Raya",
+  "Desa": "Desa Bukit Drien",
+  "Koordinat": "4.67066666666666,97.9104166666666"
+ },
+ {
+  "ID": "LOC16",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Bireun",
+  "Kecamatan": "Kecamatan Kota Juang",
+  "Desa": "Desa Blang Tingkeum",
+  "Koordinat": "5.18991666666666,96.7168333333333"
+ },
+ {
+  "ID": "LOC17",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Bireun",
+  "Kecamatan": "Kecamatan Simpang Mamplan",
+  "Desa": "Desa Calok",
+  "Koordinat": "5.21091666666666,96.4761944444444"
+ },
+ {
+  "ID": "LOC18",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Gayo Lues",
+  "Kecamatan": "Kecamatan Blang Pegayon",
+  "Desa": "Desa Porang",
+  "Koordinat": "3.98738055555555,97.3226"
+ },
+ {
+  "ID": "LOC19",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Gayo Lues",
+  "Kecamatan": "Kecamatan Debun Gelang",
+  "Desa": "Desa Rebebe",
+  "Koordinat": "4.00619444444444,97.3425277777777"
+ },
+ {
+  "ID": "LOC20",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kota Subussalam",
+  "Kecamatan": "Kecamatan Sultan Daulat",
+  "Desa": "Desa Sigrun",
+  "Koordinat": "2.71666666666666,97.9166666666666"
+ },
+ {
+  "ID": "LOC21",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Pidie Jaya",
+  "Kecamatan": "Kecamatan Bandar Dua",
+  "Desa": "Desa Kumba",
+  "Koordinat": "5.16333333333333,96.3030555555555"
+ },
+ {
+  "ID": "LOC22",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Pidie Jaya",
+  "Kecamatan": "Kecamatan Trienggadeng",
+  "Desa": "Desa Sagoe",
+  "Koordinat": "5.11666666666666,96.2"
+ },
+ {
+  "ID": "LOC23",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Pidie",
+  "Kecamatan": "Kecamatan Pidie",
+  "Desa": "Desa Blang Paseh",
+  "Koordinat": "5.37566666666666,95.9673333333333"
+ },
+ {
+  "ID": "LOC24",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kabupaten Singkil",
+  "Kecamatan": "Kecamatan Danau Paris",
+  "Desa": "Desa Situban Makmur",
+  "Koordinat": "2.33333333333333,97.8333333333333"
+ },
+ {
+  "ID": "LOC25",
+  "Provinsi": "Aceh",
+  "Wilayah": "Kota Subulussalam",
+  "Kecamatan": "Kecamatan Rundeng",
+  "Desa": "Desa Tualang",
+  "Koordinat": "2.66147222222222,97.8583333333333"
+ },
+ {
+  "ID": "LOC26",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Bangli",
+  "Kecamatan": "Kecamatan Bangli",
+  "Desa": "Kelurahan Pengotan",
+  "Koordinat": "-8.325051,115.36182",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC27",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Bangli",
+  "Kecamatan": "Kecamatan Kintamani",
+  "Desa": "Desa Blatih",
+  "Koordinat": "-8.226694,115.269001",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC28",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Bangli",
+  "Kecamatan": "Kecamatan Kintamani",
+  "Desa": "Desa Selulung",
+  "Koordinat": "-8.21497444444444,115.288215555555",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC29",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Bangli",
+  "Kecamatan": "Kecamatan Kintamani",
+  "Desa": "Desa Serai",
+  "Koordinat": "115.307059,-8.231587",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC30",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Bangli",
+  "Kecamatan": "Kecamatan Susut",
+  "Desa": "Desa Susut",
+  "Koordinat": "115.330607,-8.43667",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC31",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Bangli",
+  "Kecamatan": "Kecamatan Susut",
+  "Desa": "Desa Tiga",
+  "Koordinat": "-8.33935527777777,115.351051388888",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC32",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Buleleng",
+  "Kecamatan": "Kecamatan Buleleng",
+  "Desa": "Desa Jineng Dalem",
+  "Koordinat": "-8.116112,115.126284",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC33",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Buleleng",
+  "Kecamatan": "Kecamatan Buleleng",
+  "Desa": "Desa Tukad Mungga",
+  "Koordinat": "-8.15205833333333,115.060905555555",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC34",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Buleleng",
+  "Kecamatan": "Kecamatan Bulengleng",
+  "Desa": "Desa Poh Bergong",
+  "Koordinat": "-8.13157,115.140978",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC35",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Buleleng",
+  "Kecamatan": "Kecamatan Seirit",
+  "Desa": "Desa Banjar Asem",
+  "Koordinat": "-8.203428,114.961647",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC36",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Buleleng",
+  "Kecamatan": "Kecamatan Seririt",
+  "Desa": "Desa Joanyar",
+  "Koordinat": "-8.198866,114.953936",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC37",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Bulengleng",
+  "Kecamatan": "Kecamatan Banjar",
+  "Desa": "Desa Banjar",
+  "Koordinat": "-8.21080277777777,114.961655555555",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC38",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Gianyar",
+  "Kecamatan": "Kecamatan Tegalalang",
+  "Desa": "Desa Pupuan",
+  "Koordinat": "-8.42814999999999,115.214005555555",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC39",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Gianyar",
+  "Kecamatan": "Kecamatan Tegalalang",
+  "Desa": "Desa Taro",
+  "Koordinat": "-8.385581,115.280577",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC40",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Gianyar",
+  "Kecamatan": "Kecamatan Tegalalang",
+  "Desa": "Desa Taro",
+  "Koordinat": "-8.385581,115.280577",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC41",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Karangasem",
+  "Kecamatan": "Kecamatan Kubu",
+  "Desa": "Desa Tulamben",
+  "Koordinat": "-8.277304,115.592726",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC42",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Karangasem",
+  "Kecamatan": "Kecamatan Kubu",
+  "Desa": "Desa Tulamben",
+  "Koordinat": "-8.277304,115.592726",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC43",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Klungkung",
+  "Kecamatan": "Kecamatan Banjaran",
+  "Desa": "Desa Tihingan",
+  "Koordinat": "-8.529877,115.383047",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC44",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Klungkung",
+  "Kecamatan": "Kecamatan Banjaran",
+  "Desa": "Desa Tihingan",
+  "Koordinat": "-8.529877,115.383047",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC45",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Klungkung",
+  "Kecamatan": "Kecamatan Dawan",
+  "Desa": "Desa Dawan Kaler",
+  "Koordinat": "-8.51906388888889,115.450561111111",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC46",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Tabanan",
+  "Kecamatan": "Kecamatan Selemendeng",
+  "Desa": "Desa Tangguntiti",
+  "Koordinat": "-8.53998,115.05297",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC47",
+  "Provinsi": "Bali",
+  "Wilayah": "Kabupaten Tabanan",
+  "Kecamatan": "Kecamatan Tabanan",
+  "Desa": "Desa Sesadan",
+  "Koordinat": "-8.476384,115.136497",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC48",
+  "Provinsi": "Bangka Belitung",
+  "Wilayah": "Kabupaten Bangka Selatan",
+  "Kecamatan": "Kecamatan Tukak Sadai",
+  "Desa": "Desa Tiram",
+  "Koordinat": "-2.99000833333333,106.639405555555"
+ },
+ {
+  "ID": "LOC49",
+  "Provinsi": "Bangka Belitung",
+  "Wilayah": "Kabupaten Bangka Tegah",
+  "Kecamatan": "Kecamatan Lubuk Besar",
+  "Desa": "Desa Batu Beriga",
+  "Koordinat": "106.773361111111,106.773361111111"
+ },
+ {
+  "ID": "LOC50",
+  "Provinsi": "Bangka Belitung",
+  "Wilayah": "Kabupaten Bangka Tegah",
+  "Kecamatan": "Kecamatan Lubuk Besar",
+  "Desa": "Desa Batu Beriga",
+  "Koordinat": "106.773361111111,106.773361111111"
+ },
+ {
+  "ID": "LOC51",
+  "Provinsi": "Bangka Belitung",
+  "Wilayah": "Kabupaten Bangka Tengah",
+  "Kecamatan": "Kecamatan Namang",
+  "Desa": "Desa Baskara Bakti",
+  "Koordinat": "-2.23877777777777,106.206861111111"
+ },
+ {
+  "ID": "LOC52",
+  "Provinsi": "Bangka Belitung",
+  "Wilayah": "Kabupaten Belitung",
+  "Kecamatan": "Kecamatan Tanjung Pandan",
+  "Desa": "Desa Perawas",
+  "Koordinat": "-2.23877777777777,106.206861111111"
+ },
+ {
+  "ID": "LOC53",
+  "Provinsi": "Banten",
+  "Wilayah": "Kota Cilegon",
+  "Kecamatan": "Kecamatan Grogol",
+  "Desa": "Desa Gerem",
+  "Koordinat": "-5.96167777777777,106.011119444444",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC54",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Lebak",
+  "Kecamatan": "Kecamatan Bojongmanik",
+  "Desa": "Desa Mekarmanik",
+  "Koordinat": "-6.29216111111111,106.089819444444",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC55",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Lebak",
+  "Kecamatan": "Kecamatan Cileles",
+  "Desa": "Desa Mekarjaya",
+  "Koordinat": "-6.52441666666666,106.0566",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC56",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Lebak",
+  "Kecamatan": "Kecamatan Gunung Kencana",
+  "Desa": "Desa Gunung Kencana",
+  "Koordinat": "-6.59474879742664,106.151289078114",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC57",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Pandeglang",
+  "Kecamatan": "Kecamatan Cisata",
+  "Desa": "Desa Cibarani",
+  "Koordinat": "-6.424568,105.923398",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC58",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Pandeglang",
+  "Kecamatan": "Kecamatan Cisata",
+  "Desa": "Desa Rawasari",
+  "Koordinat": "-6.40145277777777,105.962283333333",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC59",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Pandeglang",
+  "Kecamatan": "Kecamatan Kaduhejo",
+  "Desa": "Desa Palurahan",
+  "Koordinat": "-6.32847055356904,106.067972885766",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC60",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Pandeglang",
+  "Kecamatan": "Kecamatan Majasari",
+  "Desa": "Desa Cilaja",
+  "Koordinat": "-6.29216111111111,106.089819444444",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC61",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Pandeglang",
+  "Kecamatan": "Kecamatan Mandalawangi",
+  "Desa": "Desa Curuglemo",
+  "Koordinat": "-6.279007,105.993592",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC62",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Pandeglang",
+  "Kecamatan": "Kecamatan Saketi",
+  "Desa": "Desa Saketi",
+  "Koordinat": "-6.401654,105.990437",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC63",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Serang",
+  "Kecamatan": "Kecamatan Bojongegara",
+  "Desa": "Desa Pakuncen",
+  "Koordinat": "-5.59558,106.0781198",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC64",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Serang",
+  "Kecamatan": "Kecamatan Cinangka",
+  "Desa": "Desa Karangsuraga",
+  "Koordinat": "-6.1752916209511,105.850572221775",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC65",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Serang",
+  "Kecamatan": "Kecamatan Ciruas",
+  "Desa": "Desa Melati",
+  "Koordinat": "-6.07777777777777,106.054166666666",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC66",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Serang",
+  "Kecamatan": "Kecamatan Ciruas",
+  "Desa": "Desa Pamong",
+  "Koordinat": "-6.08275,106.220719444444",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC67",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Serang",
+  "Kecamatan": "Kecamatan Walantaka",
+  "Desa": "Desa Lebak Wangi",
+  "Koordinat": "-6.078726,106.278749",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC68",
+  "Provinsi": "Banten",
+  "Wilayah": "Kota Tanggerang Selatan",
+  "Kecamatan": "Kecamatan Setu",
+  "Desa": "Desa Kademangan",
+  "Koordinat": "-6.3472,106.677766666666",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC69",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Tanggerang",
+  "Kecamatan": "Kecamatan Balaraja",
+  "Desa": "Desa Talagasari",
+  "Koordinat": "-6.20070002625659,106.462522187241",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC70",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Tanggerang",
+  "Kecamatan": "Kecamatan Balaraja",
+  "Desa": "Desa Sentul",
+  "Koordinat": "-6.20938333333333,106.463227777777",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC71",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Tanggerang",
+  "Kecamatan": "Kecamatan Gunung Kaler",
+  "Desa": "Desa Onyam",
+  "Koordinat": "-6.10426388888888,106.378502777777",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC72",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Tanggerang",
+  "Kecamatan": "Kecamatan Sepatan",
+  "Desa": "Desa Mekar Jaya",
+  "Koordinat": "-6.12796944444444,106.574213888888",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC73",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Tanggerang",
+  "Kecamatan": "Kecamatan Sindang Jaya",
+  "Desa": "Desa Badak Anom",
+  "Koordinat": "-6.14269722222222,106.482430555555",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC74",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Tanggerang",
+  "Kecamatan": "Kecamatan Sukamulya",
+  "Desa": "Desa Buniayu",
+  "Koordinat": "-6.13611111111111,106.444444444444",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC75",
+  "Provinsi": "Banten",
+  "Wilayah": "Kabupaten Tanggerang",
+  "Kecamatan": "Kecamatan Tiga Raksa",
+  "Desa": "Desa Pasir Nangka",
+  "Koordinat": "-6.23976388888888,106.472469444444",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC76",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Bantul",
+  "Kecamatan": "Kecamatan Bambang Lipuro",
+  "Desa": "Desa Sidomulyo",
+  "Koordinat": "-7.94265501754346,110.291508370554",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC77",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Bantul",
+  "Kecamatan": "Kecamatan Dlingo",
+  "Desa": "Desa Jatimulyo",
+  "Koordinat": "-7.90405555555555,110.487888888888",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC78",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Bantul",
+  "Kecamatan": "Kecamatan Pajangan",
+  "Desa": "Desa Sendangsari",
+  "Koordinat": "-7.89527777777777,110.290833333333",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC79",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Bantul",
+  "Kecamatan": "Kecamatan Pleret",
+  "Desa": "Desa Bawuran",
+  "Koordinat": "-7.8782235165673,110.431016352732",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC80",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Bantul",
+  "Kecamatan": "Kecamatan Terong Dlingo",
+  "Desa": "Desa Rejosari",
+  "Koordinat": "-7.88833333333333,110.456111111111"
+ },
+ {
+  "ID": "LOC81",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Gadangsari",
+  "Desa": "Desa Tegalrejo",
+  "Koordinat": "-7.81103595506399,110.650217318907",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC82",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Gedang Sari",
+  "Desa": "Desa Ngalang",
+  "Koordinat": "-7.883108,110.575974",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC83",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Ngawen",
+  "Desa": "Desa Jurang Jero",
+  "Koordinat": "-7.82191,110.70136",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC84",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Ngawen",
+  "Desa": "Desa Kampung",
+  "Koordinat": "-7.834875,110.697275",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC85",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Ngawen",
+  "Desa": "Desa Tanjep",
+  "Koordinat": "-7.806761,110.686239"
+ },
+ {
+  "ID": "LOC86",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Nglipar",
+  "Desa": "Desa Kedung Keris",
+  "Koordinat": "-7.90391666666666,110.622583333333",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC87",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Nglipar",
+  "Desa": "Desa Pengkol",
+  "Koordinat": "-7.878122,110.5986",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC88",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Nglipar",
+  "Desa": "Desa Pengkol",
+  "Koordinat": "-7.87516,110.60433",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC89",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Patuk",
+  "Desa": "Desa Ngoro",
+  "Koordinat": "-7.836212,110.520465",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC90",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Playen",
+  "Desa": "Desa Banaran",
+  "Koordinat": "-7.91666666666666,110.535",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC91",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Playen",
+  "Desa": "Desa Bleberan",
+  "Koordinat": "-7.95677652145523,110.520850753973",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC92",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Ponjong",
+  "Desa": "Desa Umbulrejo",
+  "Koordinat": "-7.950931,110.718746",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC93",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Purwosari",
+  "Desa": "Desa Grijati",
+  "Koordinat": "-8.00222222222222,110.345277777777",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC94",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Semanu",
+  "Desa": "Desa Pacarejo",
+  "Koordinat": "-8.017531,110.620075",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC95",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Semin",
+  "Desa": "Desa Ndilem",
+  "Koordinat": "-7.89266666666666,110.728694444444",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC96",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Gunung Kidul",
+  "Kecamatan": "Kecamatan Wonosari",
+  "Desa": "Desa Wunung",
+  "Koordinat": "-8.026194,110.580071",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC97",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Kulon Progo",
+  "Kecamatan": "Kecamatan Kokap",
+  "Desa": "Desa Hargorejo",
+  "Koordinat": "-7.870124,110.110916",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC98",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Kulon Progo",
+  "Kecamatan": "Kecamatan Pengasih",
+  "Desa": "Desa Kedung Sari",
+  "Koordinat": "-7.835636,110.165595",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC99",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Kulon Progo",
+  "Kecamatan": "Kecamatan Pengasih",
+  "Desa": "Desa Mergosari",
+  "Koordinat": "-7.855009,110.174437",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC100",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Kulon Progo",
+  "Kecamatan": "Kecamatan Sentolo",
+  "Desa": "Desa Sukoreno",
+  "Koordinat": "-7.869608,110.194445",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC101",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Sleman",
+  "Kecamatan": "Kecamatan Cangkringan",
+  "Desa": "Desa Wukir Sari",
+  "Koordinat": "-7.50222222222222,110.4438",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC102",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Bantul",
+  "Kecamatan": "Kecamatan Bantul",
+  "Desa": "Desa Bantul",
+  "Koordinat": "-7.86345276407523,110.327037863561",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC103",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Bantul",
+  "Kecamatan": "Kecamatan Pajangan",
+  "Desa": "Desa Triwidadi",
+  "Koordinat": "-7.861365,110.268202",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC104",
+  "Provinsi": "D.I Yogyakarta",
+  "Wilayah": "Kabupaten Bantul",
+  "Kecamatan": "Kecamatan Pandak",
+  "Desa": "Desa Triharjo",
+  "Koordinat": "-7.92799126124446,110.28385",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC105",
+  "Provinsi": "Gorontalo",
+  "Wilayah": "Kabupaten Boalemo",
+  "Kecamatan": "Kecamatan Batumoito",
+  "Desa": "Desa Tapadan",
+  "Koordinat": "0.48703,122.214489"
+ },
+ {
+  "ID": "LOC106",
+  "Provinsi": "Gorontalo",
+  "Wilayah": "Kabupaten Boalemo",
+  "Kecamatan": "Kecamatan Botumoito",
+  "Desa": "Desa Dulangea",
+  "Koordinat": "0.488617,122.242084"
+ },
+ {
+  "ID": "LOC107",
+  "Provinsi": "Gorontalo",
+  "Wilayah": "Kabupaten Boalemo",
+  "Kecamatan": "Kecamatan Duhupi",
+  "Desa": "Desa Pohohungo",
+  "Koordinat": "0.581277777777777,122.4365"
+ },
+ {
+  "ID": "LOC108",
+  "Provinsi": "Gorontalo",
+  "Wilayah": "Kabupaten Boalemo",
+  "Kecamatan": "Kecamatan Panguyaman",
+  "Desa": "Bonngo Nol",
+  "Koordinat": "0.608711111111111,122.478305555555"
+ },
+ {
+  "ID": "LOC109",
+  "Provinsi": "Gorontalo",
+  "Wilayah": "Kabupaten Boalemo",
+  "Kecamatan": "Kecamatan Wonosari",
+  "Desa": "Desa Mekarjaya",
+  "Koordinat": "0.665167,122.485606"
+ },
+ {
+  "ID": "LOC110",
+  "Provinsi": "Gorontalo",
+  "Wilayah": "Kabupaten Bone Bolango",
+  "Kecamatan": "Kecamatan Boneraya",
+  "Desa": "Desa Alo",
+  "Koordinat": "0.316263888888888,123.342230555555"
+ },
+ {
+  "ID": "LOC111",
+  "Provinsi": "Gorontalo",
+  "Wilayah": "Kabupaten Bonebolango",
+  "Kecamatan": "Kecamatan Botupingge",
+  "Desa": "Desa Buata",
+  "Koordinat": "0.528055555555555,123.090472222222"
+ },
+ {
+  "ID": "LOC112",
+  "Provinsi": "Gorontalo",
+  "Wilayah": "Kabupaten Gorontalo Utara",
+  "Kecamatan": "Kecamatan Kuandang",
+  "Desa": "Desa Molingkapoto",
+  "Koordinat": "0.789805555555555,122.874388888888"
+ },
+ {
+  "ID": "LOC113",
+  "Provinsi": "Gorontalo",
+  "Wilayah": "Kabupaten Gorontalo",
+  "Kecamatan": "Kecamatan Palubala",
+  "Desa": "Desa Palubala",
+  "Koordinat": "0.650992,122.802451"
+ },
+ {
+  "ID": "LOC114",
+  "Provinsi": "Gorontalo",
+  "Wilayah": "Kabupaten Gorontalo",
+  "Kecamatan": "Kecamatan Puluhala",
+  "Desa": "Desa Pongongaila",
+  "Koordinat": "0.6509,122.791366666666"
+ },
+ {
+  "ID": "LOC115",
+  "Provinsi": "Gorontalo",
+  "Wilayah": "Kabupaten Limboto",
+  "Kecamatan": "Kecamatan Telaga Biru",
+  "Desa": "Desa Pentadio Timur",
+  "Koordinat": "0.626527777777777,123.016944444444"
+ },
+ {
+  "ID": "LOC116",
+  "Provinsi": "Gorontalo",
+  "Wilayah": "Kabupaten Pahuwato",
+  "Kecamatan": "Kecamatan Wanggarasi",
+  "Desa": "Desa Limbula",
+  "Koordinat": "0.532807,121.726846"
+ },
+ {
+  "ID": "LOC117",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Batang Hari",
+  "Kecamatan": "Kecamatan Bathin XXIV",
+  "Desa": "Desa Bulian Baru",
+  "Koordinat": "-1.94194444444444,103.152055555555"
+ },
+ {
+  "ID": "LOC118",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Batang Hari",
+  "Kecamatan": "Kecamatan Batin",
+  "Desa": "Desa Terentang Baru",
+  "Koordinat": "-1.94141666666666,103.084027777777"
+ },
+ {
+  "ID": "LOC119",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Batang Hari",
+  "Kecamatan": "Kecamatan Mersam",
+  "Desa": "Desa Pematang Gadung",
+  "Koordinat": "-1.65805555555555,102.991666666666"
+ },
+ {
+  "ID": "LOC120",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Batang Hari",
+  "Kecamatan": "Kecamatan Mersam",
+  "Desa": "Desa Tapahsari",
+  "Koordinat": "-1.58577777777777,102.918944444444"
+ },
+ {
+  "ID": "LOC121",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Bungo",
+  "Kecamatan": "Kecamatan Pelepat Ilir",
+  "Desa": "Desa Sumber Mulya",
+  "Koordinat": "-1.67649999999999,102.418222222222"
+ },
+ {
+  "ID": "LOC122",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Bungo",
+  "Kecamatan": "Kecamatan Pelepat",
+  "Desa": "Desa Bangun Harjo",
+  "Koordinat": "-1.57361111111111,102.333583333333"
+ },
+ {
+  "ID": "LOC123",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Merangin",
+  "Kecamatan": "Kecamatan Bangko Barat",
+  "Desa": "Desa Biuku Tanjung",
+  "Koordinat": "-2.12472222222222,102.21"
+ },
+ {
+  "ID": "LOC124",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Merangin",
+  "Kecamatan": "Kecamatan Bangko Barat",
+  "Desa": "Desa Bedeng Rejo",
+  "Koordinat": "-2.19144444444444,102.198666666666"
+ },
+ {
+  "ID": "LOC125",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Merangin",
+  "Kecamatan": "Kecamatan Bangko",
+  "Desa": "Desa Bangko",
+  "Koordinat": "-2.073881,102.279586"
+ },
+ {
+  "ID": "LOC126",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Merangin",
+  "Kecamatan": "Kecamatan Pemenang Selatan",
+  "Desa": "Desa Tanjung Benuang",
+  "Koordinat": "-2.24027777777777,102.376666666666"
+ },
+ {
+  "ID": "LOC127",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Merangin",
+  "Kecamatan": "Kecamatan Ranahpembarap",
+  "Desa": "Desa Guguk",
+  "Koordinat": "-2.15770277777777,102.075136111111"
+ },
+ {
+  "ID": "LOC128",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Muara Bungo",
+  "Kecamatan": "Kecamatan Muko Bathin VII",
+  "Desa": "Desa Datar",
+  "Koordinat": "-1.57897222222222,102.018305555555"
+ },
+ {
+  "ID": "LOC129",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Muara Bungo",
+  "Kecamatan": "Kecamatan Pelepat Ilir",
+  "Desa": "Desa Kuamang Kuning",
+  "Koordinat": "-1.937686,103.155152"
+ },
+ {
+  "ID": "LOC130",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Muara Jambi",
+  "Kecamatan": "Kecamatan Bahar Selatan",
+  "Desa": "Desa Tanjung Baru",
+  "Koordinat": "-2.03319444444444,103.536777777777"
+ },
+ {
+  "ID": "LOC131",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Sarolangun",
+  "Kecamatan": "Kecamatan Pauh",
+  "Desa": "Desa Batu Ampar",
+  "Koordinat": "-2.16302777777777,102.796777777777"
+ },
+ {
+  "ID": "LOC132",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Tajung Jabung Timur",
+  "Kecamatan": "Kecamatan Muara Sabak Timur",
+  "Desa": "Desa Siau Dalam",
+  "Koordinat": "-1.10097222222222,103.917138888888"
+ },
+ {
+  "ID": "LOC133",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Tanjung Jabung Barat",
+  "Kecamatan": "Kecamatan Betara",
+  "Desa": "Desa Lubuk Terentang",
+  "Koordinat": "-1.12258333333333,103.3905"
+ },
+ {
+  "ID": "LOC134",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Tanjung Jabung Barat",
+  "Kecamatan": "Kecamatan Papalik",
+  "Desa": "Desa Rantau Badak",
+  "Koordinat": "-1.263769,103.099423"
+ },
+ {
+  "ID": "LOC135",
+  "Provinsi": "Jambi",
+  "Wilayah": "Kabupaten Tanjung Jabung Timur",
+  "Kecamatan": "Kecamatan Mendahara Ulu",
+  "Desa": "Desa Pematang Rahim",
+  "Koordinat": "-1.25936111111111,103.539083333333"
+ },
+ {
+  "ID": "LOC136",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bandung Barat",
+  "Kecamatan": "Kecamatan Cipatat",
+  "Desa": "Desa Kertamukti",
+  "Koordinat": "-6.8167006487037,107.375174277667",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC137",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bandung Barat",
+  "Kecamatan": "Kecamatan Cipatat",
+  "Desa": "Desa Mandalasari",
+  "Koordinat": "-6.825991273,107.3321503",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC138",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bandung",
+  "Kecamatan": "Kecamatan Cicalengka",
+  "Desa": "Desa Tenjolaya",
+  "Koordinat": "-6.98154,107.835278",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC139",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bandung",
+  "Kecamatan": "Kecamatan Cihampelas",
+  "Desa": "Desa Cipatik",
+  "Koordinat": "-6.93596068241764,107.504489887602",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC140",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bandung",
+  "Kecamatan": "Kecamatan Kutawaringin",
+  "Desa": "Desa Gajahmekar",
+  "Koordinat": "-6.98048055888297,107.532528362038",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC141",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bandung",
+  "Kecamatan": "Kecamatan Pecet",
+  "Desa": "Desa Cikawao",
+  "Koordinat": "-7.0981959928635,107.739685963949",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC142",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Ciampea",
+  "Desa": "Desa Benteng",
+  "Koordinat": "-6.54781969625694,106.709003579014",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC143",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Gunung Sindur",
+  "Desa": "Desa Cibadung",
+  "Koordinat": "-6.41153212648172,106.669391715181",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC144",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Babakan Madang",
+  "Desa": "Desa Kadumangu",
+  "Koordinat": "-6.539440832070278, 106.85484950460871",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC145",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Bogor Barat",
+  "Desa": "Desa Loji",
+  "Koordinat": "-6.583489,106.774649",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC146",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Bogor Timur",
+  "Desa": "Kelurahan Baranangsiang",
+  "Koordinat": "-6.61956502729463,106.826878351521",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC147",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Cariu",
+  "Desa": "Desa Mekar Wangi",
+  "Koordinat": "-6.52086,107.118854",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC148",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Ciampea",
+  "Desa": "Desa Ciampea",
+  "Koordinat": "-6.54344,106.693936",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC149",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Ciampea",
+  "Desa": "Desa Ciampea",
+  "Koordinat": "-6.543549,106.693985",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC150",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Ciampea",
+  "Desa": "Desa Ciampea Udik",
+  "Koordinat": "-6.60788887667001,106.681527781124",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC151",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Ciampea",
+  "Desa": "Desa Bojong Rangkas",
+  "Koordinat": "-6.558983,106.693049",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC152",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Ciampea",
+  "Desa": "Desa Cibadak",
+  "Koordinat": "-6.56791666666666,106.687583333333",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC153",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Ciawi",
+  "Desa": "Desa Bitungsari",
+  "Koordinat": "-6.68090555555555,106.844299999999",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC154",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Cibinong",
+  "Desa": "Desa Pakansari",
+  "Koordinat": "-6.484504,106.836913",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC155",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Cibinong",
+  "Desa": "Desa Pondok Rajek",
+  "Koordinat": "-6.452232,106.818425",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC156",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Cibungbulan",
+  "Desa": "Desa Cemplang",
+  "Koordinat": "-6.57617,106.652977",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC157",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Cibungbulang",
+  "Desa": "Desa Situ Ilir",
+  "Koordinat": "-6.60549999999999,106.658666666666",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC158",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Cibungbulang",
+  "Desa": "Desa Ciaruteun Udik",
+  "Koordinat": "-6.61677777777777,106.676305555555",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC159",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Cibungbulang",
+  "Desa": "Desa Cibatok Dua",
+  "Koordinat": "-6.59038888888888,106.665",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC160",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Cibungbulang",
+  "Desa": "Desa Cimanggu",
+  "Koordinat": "-6.562933,106.666543",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC161",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Cijeruk",
+  "Desa": "Desa Cibalung",
+  "Koordinat": "-6.68405555555555,106.814861111111",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC162",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Cileungsi",
+  "Desa": "Desa Cileungsi Kidul",
+  "Koordinat": "-6.41542098742998,106.952245970222",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC163",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Cisarua",
+  "Desa": "Desa Kopo",
+  "Koordinat": "-6.68141666666666,106.922416666666",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC164",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Ciseeng",
+  "Desa": "Desa Cibentang",
+  "Koordinat": "-6.44506944444444,106.687666666666",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC165",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Ciseeng",
+  "Desa": "Desa Kuripan",
+  "Koordinat": "-6.42502777777777,106.674527777777",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC166",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Gunung Putri",
+  "Desa": "Desa Cicadas",
+  "Koordinat": "-6.43161111111111,106.918194444444",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC167",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Gunung Putri",
+  "Desa": "Desa Gunung Putri",
+  "Koordinat": "-6.46483333333333,106.88775",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC168",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan GunungPutri",
+  "Desa": "Desa Tlanjungundik",
+  "Koordinat": "-6.4486214042784,106.910523750728",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC169",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Kemang",
+  "Desa": "Desa Jampang",
+  "Koordinat": "-6. 476478,106.728862",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC170",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Kemang",
+  "Desa": "Desa Pondok Udik",
+  "Koordinat": "-6.57419448633237,106.745722186415",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC171",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Kemang",
+  "Desa": "Desa Semplak Barat",
+  "Koordinat": "-6.546814,106.752311",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC172",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Klapanunggal",
+  "Desa": "Desa Cikahuripan",
+  "Koordinat": "-6.46449999714164,106.971055552304",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC173",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Leuwisadeng",
+  "Desa": "Desa Leuwisadeng",
+  "Koordinat": "-6.573791,106.603717",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC174",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Megamendung",
+  "Desa": "Desa Sukagalih",
+  "Koordinat": "-6.71019444444444,106.920027777777",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC175",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Megamendung",
+  "Desa": "Desa Sukamanah",
+  "Koordinat": "-6.68270694369962,106.898138464917",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC176",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Parung Panjang",
+  "Desa": "Desa Gorowong",
+  "Koordinat": "-6.39180555555555,106.565611111111",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC177",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Parung",
+  "Desa": "Desa Iwul",
+  "Koordinat": "-6.46519982062297,106.72341522037",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC178",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Parung",
+  "Desa": "Desa Warujaya",
+  "Koordinat": "-6.44547222222222,106.71675",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC179",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Rumpin",
+  "Desa": "Desa Rumpin",
+  "Koordinat": "-6.439929,106.640817",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC180",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Rumpin",
+  "Desa": "Desa Mekarjaya",
+  "Koordinat": "-6.5364444444444,106.658916666666",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC181",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Rumpin",
+  "Desa": "Desa Taman Sari",
+  "Koordinat": "-6.390692,106.632836",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC182",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Sukaraja",
+  "Desa": "Desa Sukatani",
+  "Koordinat": "-6.616917,106.838226",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC183",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Tamansari",
+  "Desa": "Desa Sukaresmi",
+  "Koordinat": "-6.63777777777777,106.749713888888",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC184",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Tamansari",
+  "Desa": "Desa Sukajaya",
+  "Koordinat": "-6.65094444444444,106.734333333333",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC185",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Bogor",
+  "Kecamatan": "Kecamatan Tanjungsari",
+  "Desa": "Desa Tanjung Rasa",
+  "Koordinat": "-6.57609301173388,107.140444134009",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC186",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Ciamis",
+  "Kecamatan": "Kecamatan Baregbeg",
+  "Desa": "Desa Baregbeg",
+  "Koordinat": "-7.3037126459956,108.360852257673",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC187",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Ciamis",
+  "Kecamatan": "Kecamatan Baregbeg",
+  "Desa": "Desa Petir Hilir",
+  "Koordinat": "-7.29389,108.37384",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC188",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Ciamis",
+  "Kecamatan": "Kecamatan Kawali",
+  "Desa": "Desa Sindangsari",
+  "Koordinat": "-7.18968682798027,108.354287591038",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC189",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Ciamis",
+  "Kecamatan": "Kecamatan Panawang",
+  "Desa": "Desa Panawang",
+  "Koordinat": "-7.11727005954071,108.381415254412",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC190",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cianjur",
+  "Kecamatan": "Kecamatan Cempaka",
+  "Desa": "Desa Susukan",
+  "Koordinat": "-6.95416666666666,107.113055555555",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC191",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cianjur",
+  "Kecamatan": "Kecamatan Cibeber",
+  "Desa": "Desa Cibaregbeg",
+  "Koordinat": "-6.903527,107.1679546",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC192",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cianjur",
+  "Kecamatan": "Kecamatan Cibeber",
+  "Desa": "Desa Girimulya",
+  "Koordinat": "-6.92722222222222,107.176666666666",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC193",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cianjur",
+  "Kecamatan": "Kecamatan Cilaku",
+  "Desa": "Desa Cibinong Hilir",
+  "Koordinat": "-6.86031278204825,107.147835029673",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC194",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cianjur",
+  "Kecamatan": "Kecamatan Cilaku",
+  "Desa": "Desa Sukakerta",
+  "Koordinat": "-6.8846628582132,107.14626099496",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC195",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cianjur",
+  "Kecamatan": "Kecamatan Ciranjang",
+  "Desa": "Desa Kertajaya",
+  "Koordinat": "-6.79081786513075,107.278776829212",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC196",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cianjur",
+  "Kecamatan": "Kecamatan Karang Tengah",
+  "Desa": "Desa Ciherang",
+  "Koordinat": "-6.79972669579547,107.202654780629",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC197",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cianjur",
+  "Kecamatan": "Kecamatan Karang Tengah",
+  "Desa": "Desa Sukajadi",
+  "Koordinat": "-6.7625978545929,107.242318885618",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC198",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cianjur",
+  "Kecamatan": "Kecamatan Mande",
+  "Desa": "Desa Kademangan",
+  "Koordinat": "-6.76874539496556,107.203247061235",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC199",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cianjur",
+  "Kecamatan": "Kecamatan Mande",
+  "Desa": "Desa Murnisari",
+  "Koordinat": "-6.760656,107.231731",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC200",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cianjur",
+  "Kecamatan": "Kecamatan Pagelaran",
+  "Desa": "Desa Bunijaya",
+  "Koordinat": "-7.15861111111111,107.173611111111",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC201",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cianjur",
+  "Kecamatan": "Kecamatan Sukaluyu",
+  "Desa": "Desa Selajambe",
+  "Koordinat": "-6.80508,107.2151",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC202",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cianjur",
+  "Kecamatan": "Kecamatan Sukaluyu",
+  "Desa": "Desa Sukamulya",
+  "Koordinat": "-6.846784314622,107.220579471198",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC203",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cirebon",
+  "Kecamatan": "Kecamatan Gegesik",
+  "Desa": "Desa Slendro",
+  "Koordinat": "-6.53785251702425,108.394296558666",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC204",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cirebon",
+  "Kecamatan": "Kecamatan Beber",
+  "Desa": "Desa Kondangsari",
+  "Koordinat": "-6.80156206325031,108.524227470612",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC205",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cirebon",
+  "Kecamatan": "Kecamatan Dukuh Puntang",
+  "Desa": "Desa Sindang Mekar",
+  "Koordinat": "-6.756456,106.445279",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC206",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cirebon",
+  "Kecamatan": "Kecamatan Greged",
+  "Desa": "Desa Kamarang Lebak",
+  "Koordinat": "-6.838614,108.5438",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC207",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cirebon",
+  "Kecamatan": "Kecamatan Greged",
+  "Desa": "Desa Jatipancur",
+  "Koordinat": "-6.76562566773061,108.448104300881",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC208",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cirebon",
+  "Kecamatan": "Kecamatan Kaliwedi",
+  "Desa": "Desa Wargabinangun",
+  "Koordinat": "-6.56983864802859,108.397616280542",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC209",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cirebon",
+  "Kecamatan": "Kecamatan Karang Wareng",
+  "Desa": "Desa Sumurkondang",
+  "Koordinat": "-6.88684546604527,108.640006176613",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC210",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cirebon",
+  "Kecamatan": "Kecamatan Paliman",
+  "Desa": "Desa Cileukrak",
+  "Koordinat": "-6.72175,108.419",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC211",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cirebon",
+  "Kecamatan": "Kecamatan Pasaleman",
+  "Desa": "Desa Gobang",
+  "Koordinat": "-6.92138516786898,108.730146192688",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC212",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cirebon",
+  "Kecamatan": "Kecamatan Pasaleman",
+  "Desa": "Desa Tonjong",
+  "Koordinat": "-6.95286875184621,108.753583553535",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC213",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cirebon",
+  "Kecamatan": "Kecamatan Sumber",
+  "Desa": "Kelurahan Gegunung",
+  "Koordinat": "-6.76106311491721,108.498219449768",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC214",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cirebon",
+  "Kecamatan": "Kecamatan Susukan Lebak",
+  "Desa": "Desa Kaligawe",
+  "Koordinat": "-6.88368017119095,108.623136116421",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC215",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cirebon",
+  "Kecamatan": "Kecamatan Talun",
+  "Desa": "Desa Kerandon",
+  "Koordinat": "-6.77827,108.499538",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC216",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Cirebon",
+  "Kecamatan": "Kecamatan Talun",
+  "Desa": "Desa Kecomberan",
+  "Koordinat": "-6.75667379188531,108.513634324746",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC217",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Garut",
+  "Kecamatan": "Kecamatan Balubur Limbangan",
+  "Desa": "Desa Ciwangi",
+  "Koordinat": "-7.00966,107.9654",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC218",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Garut",
+  "Kecamatan": "Kecamatan Balubur",
+  "Desa": "Desa Limbangan Timur",
+  "Koordinat": "-7.03283972428831,107.984549569711",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC219",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Garut",
+  "Kecamatan": "Kecamatan Bayongbong",
+  "Desa": "Desa Cikedokan",
+  "Koordinat": "-7.25397222222222,107.834972222222",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC220",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Garut",
+  "Kecamatan": "Kecamatan Cigedug",
+  "Desa": "Desa Sukahurip",
+  "Koordinat": "-7.32955555555555,107.810916666666",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC221",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Garut",
+  "Kecamatan": "Kecamatan Leuwi Goong",
+  "Desa": "Desa Leuwi Goong",
+  "Koordinat": "-7.10003713708986,107.957587560126",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC222",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Garut",
+  "Kecamatan": "Kecamatan Leuwigoong",
+  "Desa": "Desa Karangsari",
+  "Koordinat": "-7.10058333333333,107.929722222222",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC223",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Garut",
+  "Kecamatan": "Kecamatan Pakenjeng",
+  "Desa": "Desa Karangsari",
+  "Koordinat": "-7.57859750237358,107.617993663197",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC224",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Garut",
+  "Kecamatan": "Kecamatan Pasirwangi",
+  "Desa": "Desa Pasirkiamis",
+  "Koordinat": "-7.23122222222222,107.794916666666",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC225",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Garut",
+  "Kecamatan": "Kecamatan Samarang",
+  "Desa": "Desa Sinarsari",
+  "Koordinat": "-7.21666666666666,107.820722222222",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC226",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Garut",
+  "Kecamatan": "Kecamatan Semarang",
+  "Desa": "Desa Cinta Asih",
+  "Koordinat": "-7.22255361709639,107.838820790708",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC227",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Indramayu",
+  "Kecamatan": "Kecamatan Cikedung",
+  "Desa": "Desa Amis",
+  "Koordinat": "-6.51702777777777,108.171666666666",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC228",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Indramayu",
+  "Kecamatan": "Kecamatan Gabus Wetan",
+  "Desa": "Desa Kedokan Gabus",
+  "Koordinat": "-6.46138888888888,108.106277777777",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC229",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Indramayu",
+  "Kecamatan": "Kecamatan Gabus Wetan",
+  "Desa": "Desa Rancamulya",
+  "Koordinat": "-6.44394444444444,108.096805555555",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC230",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Indramayu",
+  "Kecamatan": "Kecamatan Gabus",
+  "Desa": "Desa Druten Kulon",
+  "Koordinat": "-6.416254,108.038629",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC231",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Indramayu",
+  "Kecamatan": "Kecamatan Gantar",
+  "Desa": "Desa Sanca",
+  "Koordinat": "-6.558351,107. 953425",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC232",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Indramayu",
+  "Kecamatan": "Kecamatan Kroya",
+  "Desa": "Desa Temiyangsari",
+  "Koordinat": "-6.46669444444444,108.016722222222",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC233",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Indramayu",
+  "Kecamatan": "Kecamatan Kroya",
+  "Desa": "Desa Kroya",
+  "Koordinat": "-6.489534,108.064422",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC234",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Indramayu",
+  "Kecamatan": "Kecamatan Kroya",
+  "Desa": "Desa Sukamelang",
+  "Koordinat": "-6.46479488669865,108.074016456839",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC235",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Indramayu",
+  "Kecamatan": "Kecamatan Kroya",
+  "Desa": "Desa Sukaslamet",
+  "Koordinat": "-6.529109,108.02641",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC236",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Indramayu",
+  "Kecamatan": "Kecamatan Kroya",
+  "Desa": "Desa Sumbon",
+  "Koordinat": "-6. 472681,108.092638888888",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC237",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Indramayu",
+  "Kecamatan": "Kecamatan Kroya",
+  "Desa": "Desa Tanjungkerta",
+  "Koordinat": "-6.50584175583594,108.039883849958",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC238",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Indramayu",
+  "Kecamatan": "Kecamatan Widasari",
+  "Desa": "Desa Widasari",
+  "Koordinat": "-6.529109,108.02641",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC239",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Karawang",
+  "Kecamatan": "Kecamatan Tempuran",
+  "Desa": "Desa Cikuntul",
+  "Koordinat": "-6.18201316862072,107.463171804707",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC240",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Karawang",
+  "Kecamatan": "Kecamatan Cibuaya",
+  "Desa": "Desa Kedungjaya",
+  "Koordinat": "-6.02570890457722,107.318948190167",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC241",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Karawang",
+  "Kecamatan": "Kecamatan Cilamaya Kulon",
+  "Desa": "Desa Sukamulya",
+  "Koordinat": "-6.23598903956711,107.52381213534",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC242",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Karawang",
+  "Kecamatan": "Kecamatan Rawamekar",
+  "Desa": "Desa Sukamekar",
+  "Koordinat": "-6.55105590572855,108.014926213449",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC243",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kota Banjar",
+  "Kecamatan": "Kecamatan Lengensari",
+  "Desa": "Desa Bojongkantong",
+  "Koordinat": "-7.38177621888218,108.607506767295",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC244",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kota Bogor",
+  "Kecamatan": "Kecamatan Bogor Barat",
+  "Desa": "Kelurahan Margajaya",
+  "Koordinat": "-6.57417906146411,106.745724342937",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC245",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kota Bogor",
+  "Kecamatan": "Kecamatan Bogor Tengah",
+  "Desa": "Desa Tegallega",
+  "Koordinat": "-6.59992629649552,106.810215319111",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC246",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kota Bogor",
+  "Kecamatan": "Kecamatan Cileungsi",
+  "Desa": "Desa Dayeuh",
+  "Koordinat": "-6.43062415267332,106.965287192783",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC247",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kota Bogor",
+  "Kecamatan": "Kecamatan Tanah Sareal",
+  "Desa": "Kelurahan Kedungjaya",
+  "Koordinat": "-7.835636,110.165595",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC248",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Kuningan",
+  "Kecamatan": "Kecamatan Ciawigebang",
+  "Desa": "Desa Cihaur",
+  "Koordinat": "-6.952179,108.577074",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC249",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Kuningan",
+  "Kecamatan": "Kecamatan Pancalang",
+  "Desa": "Desa Silebu",
+  "Koordinat": "-6.841324,108.493153",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC250",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Majalengka",
+  "Kecamatan": "Kecamatan Kertajati",
+  "Desa": "Desa Kertasari",
+  "Koordinat": "-6.66605555555555,108.123749999999",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC251",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Majalengka",
+  "Kecamatan": "Kecamatan Talaga",
+  "Desa": "Desa Jatipamor",
+  "Koordinat": "-7.002801,108.329372",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC252",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Pangandaran",
+  "Kecamatan": "Kecamatan Cigugur",
+  "Desa": "Desa Harummandala",
+  "Koordinat": "-7.55938888888888,108.360944444444",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC253",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Pangandaran",
+  "Kecamatan": "Kecamatan Cimerak",
+  "Desa": "Desa Sindangsari",
+  "Koordinat": "-7.72072222222222,108.35575",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC254",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Purwakarta",
+  "Kecamatan": "Kecamatan Campaka",
+  "Desa": "Cijunti",
+  "Koordinat": "-6.435075423386927, 107.51787791194148",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC255",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Purwakarta",
+  "Kecamatan": "Kecamatan Cempaka",
+  "Desa": "Desa Cimahi",
+  "Koordinat": "-6.463193,107.517276",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC256",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Purwakarta",
+  "Kecamatan": "Kecamatan Cijati",
+  "Desa": "Desa Citamiang",
+  "Koordinat": "-6.697173,107.318477",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC257",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Purwakarta",
+  "Kecamatan": "Kecamatan Darangdan",
+  "Desa": "Desa Darangdan",
+  "Koordinat": "-6.685309,107.429245",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC258",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Purwakarta",
+  "Kecamatan": "Kecamatan Sukatani",
+  "Desa": "Desa Cianting",
+  "Koordinat": "-6.643126756082758, 107.4226839071597",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC259",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Purwakarta",
+  "Kecamatan": "Kecamatan Tegalwaru",
+  "Desa": "Desa Cadassari",
+  "Koordinat": "-6.667369,107.354625",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC260",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Purwakarta",
+  "Kecamatan": "Kecamatan Tegalwaru",
+  "Desa": "Desa Galumpit",
+  "Koordinat": "-6.65382,107.31799",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC261",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sukabumi",
+  "Kecamatan": "Kecamatan Bojonggenteng",
+  "Desa": "Desa Berekah",
+  "Koordinat": "-6.84194444444444,106.706388888888",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC262",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sukabumi",
+  "Kecamatan": "Kecamatan Cidahu",
+  "Desa": "Desa Grijaya",
+  "Koordinat": "-7.071826,108.026181",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC263",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sukabumi",
+  "Kecamatan": "Kecamatan Ciemas",
+  "Desa": "Desa Tamanjaya",
+  "Koordinat": "-6.998554,107.321363",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC264",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sukabumi",
+  "Kecamatan": "Kecamatan Cikidang",
+  "Desa": "Kampung Cianggrek",
+  "Koordinat": "-6.894166667,106.6514",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC265",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sukabumi",
+  "Kecamatan": "Kecamatan Kadudampit",
+  "Desa": "Desa Cipetir",
+  "Koordinat": "-6.875231,106.921259",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC266",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sukabumi",
+  "Kecamatan": "Kecamatan Kadudampit",
+  "Desa": "Desa Gedepangrango",
+  "Koordinat": "-6.85052,106.92591",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC267",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sukabumi",
+  "Kecamatan": "Kecamatan Nyalindung",
+  "Desa": "Desa Nyalindung",
+  "Koordinat": "-7.03752286477285, 106.94527408424781",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC268",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sukabumi",
+  "Kecamatan": "Kecamatan Sukabumi",
+  "Desa": "Desa Perbawati",
+  "Koordinat": "-6.86907,106.94636",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC269",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sumedang",
+  "Kecamatan": "Kecamatan Cisarua",
+  "Desa": "Desa Cisarua",
+  "Koordinat": "-6.826477,107.964677",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC270",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sumedang",
+  "Kecamatan": "Kecamatan Jatigede",
+  "Desa": "Desa Mekar Asih",
+  "Koordinat": "-6.92397222222222,108.120805555555",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC271",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sumedang",
+  "Kecamatan": "Kecamatan Jatinunggal",
+  "Desa": "Desa Pawenang",
+  "Koordinat": "-6.84438888888888,107.916805555555",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC272",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sumedang",
+  "Kecamatan": "Kecamatan Paseh",
+  "Desa": "Desa Pandanaan",
+  "Koordinat": "-6.78993352509111,108.028957112894",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC273",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sumedang",
+  "Kecamatan": "Kecamatan Sumedang Utara",
+  "Desa": "Desa Situ",
+  "Koordinat": "-6.84438888888888,107.916805555555",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC274",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sumedang",
+  "Kecamatan": "Kecamatan Tanjungmekar",
+  "Desa": "Desa Sarimukti",
+  "Koordinat": "-6.81355,107.344019",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC275",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sumedang",
+  "Kecamatan": "Kecamatan Ujung Jaya",
+  "Desa": "Desa Kebon Cau",
+  "Koordinat": "-6.95461111111111,108.086444444444",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC276",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Sumedang",
+  "Kecamatan": "Kecamatan Wado",
+  "Desa": "Desa Wado",
+  "Koordinat": "-6.95461111111111,108.086444444444",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC277",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Tanggerang",
+  "Kecamatan": "Kecamatan Gunung Kaler",
+  "Desa": "Desa Ranca Gede",
+  "Koordinat": "-6.090526,106.386145",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC278",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Tanggerang",
+  "Kecamatan": "Kecamatan Gunungkaler",
+  "Desa": "Desa Cibentok",
+  "Koordinat": "-6.12451952268987,106.393351184905",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC279",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Tasikmalaya",
+  "Kecamatan": "Kecamatan Cihideung",
+  "Desa": "Kelurahan Tugujaya",
+  "Koordinat": "-7.34433416666666,108.206972222222",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC280",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Tasikmalaya",
+  "Kecamatan": "Kecamatan Cipatujah",
+  "Desa": "Desa Padawaras",
+  "Koordinat": "-7.69111,108.05039",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC281",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Tasikmalaya",
+  "Kecamatan": "Kecamatan Karangjaya",
+  "Desa": "Desa Karanglayung",
+  "Koordinat": "-7.420826,108.380336",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC282",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Tasikmalaya",
+  "Kecamatan": "Kecamatan Karangnunggal",
+  "Desa": "Desa Cikapinis",
+  "Koordinat": "-7.67572222222222,108.107361111111",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC283",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Tasikmalaya",
+  "Kecamatan": "Kecamatan Kawalu",
+  "Desa": "Kelurahan Gunungtandala",
+  "Koordinat": "-7.38716666666666,108.216833333333",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC284",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Tasikmalaya",
+  "Kecamatan": "Kecamatan Mangunreja",
+  "Desa": "Kelurahan Pasirsalam",
+  "Koordinat": "-7.34433333333333,108.206972222222",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC285",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Tasikmalaya",
+  "Kecamatan": "Kecamatan Pager Ageung",
+  "Desa": "Desa Tanjungkerta",
+  "Koordinat": "-7.12636,108.21201",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC286",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Tasikmalaya",
+  "Kecamatan": "Kecamatan Pancatengah",
+  "Desa": "Desa Tawang",
+  "Koordinat": "-7.66038787575553,108.325731802524",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC287",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Tasikmalaya",
+  "Kecamatan": "Kecamatan Parungponteng",
+  "Desa": "Desa Girikancana",
+  "Koordinat": "-7.51235,108.16124",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC288",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Tasikmalaya",
+  "Kecamatan": "Kecamatan Rajapolah",
+  "Desa": "Desa Sukaraja",
+  "Koordinat": "-7.398,108.056027777777",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC289",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Tasikmalaya",
+  "Kecamatan": "Kecamatan Tamansari",
+  "Desa": "Desa Sumelap",
+  "Koordinat": "-7.37111111111111,108.248361111111",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC290",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Tasikmalaya",
+  "Kecamatan": "Kecamatan Taraju",
+  "Desa": "Desa Kertaharja",
+  "Koordinat": "-7.43083285700999,108.008603127511",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC291",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Tasikmalaya",
+  "Kecamatan": "Kecamatan Taraju",
+  "Desa": "Desa Taraju",
+  "Koordinat": "-7.458426,107.980743",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC292",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Temaggung",
+  "Kecamatan": "Kecamatan Jumo",
+  "Desa": "Desa Jamusan",
+  "Koordinat": "-7.21687417259795,110.115574257672"
+ },
+ {
+  "ID": "LOC293",
+  "Provinsi": "Jawa Barat",
+  "Wilayah": "Kabupaten Temaggung",
+  "Kecamatan": "Kecamatan Kranggan",
+  "Desa": "Desa Kemloko",
+  "Koordinat": "-7.30338888888888,110.225694444444"
+ },
+ {
+  "ID": "LOC294",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Banjar Negara",
+  "Kecamatan": "Kecamatan Mandiraya",
+  "Desa": "Desa Jalatunda",
+  "Koordinat": "-7.49573611111111,109.529491666666"
+ },
+ {
+  "ID": "LOC295",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Banjarnegara",
+  "Kecamatan": "Kecamatan Bawang",
+  "Desa": "Desa Mantrianom",
+  "Koordinat": "-7.43333333333333,109.666666666666"
+ },
+ {
+  "ID": "LOC296",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Banjarnegara",
+  "Kecamatan": "Kecamatan Mandiraja",
+  "Desa": "Desa Kebanaran",
+  "Koordinat": "-7.48793458284951,109.494334878306"
+ },
+ {
+  "ID": "LOC297",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Banjarnegara",
+  "Kecamatan": "Kecamatan Punggelan",
+  "Desa": "Desa Klapa",
+  "Koordinat": "-7.33388888888888,109.540666666666"
+ },
+ {
+  "ID": "LOC298",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Banjarnegara",
+  "Kecamatan": "Kecamatan Rakit",
+  "Desa": "Desa Bandingan",
+  "Koordinat": "-7.41378760546092,109.545669764204"
+ },
+ {
+  "ID": "LOC299",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Banyumas",
+  "Kecamatan": "Kecamatan Kabasen",
+  "Desa": "Desa Kabasen",
+  "Koordinat": "-7.53387176980911,109.198596408323"
+ },
+ {
+  "ID": "LOC300",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Banyumas",
+  "Kecamatan": "Kecamatan Karanglewas",
+  "Desa": "Desa Babakan",
+  "Koordinat": "-7.38207792290209,109.187240773729"
+ },
+ {
+  "ID": "LOC301",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Banyumas",
+  "Kecamatan": "Kecamatan Kebasen",
+  "Desa": "Desa Kalisalak",
+  "Koordinat": "-7.54523422058824,109.21584812373"
+ },
+ {
+  "ID": "LOC302",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Banyumas",
+  "Kecamatan": "Kecamatan Lumbir",
+  "Desa": "Desa Dermaji",
+  "Koordinat": "-7.4054766377789,108.957197571163"
+ },
+ {
+  "ID": "LOC303",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Banyumas",
+  "Kecamatan": "Kecamatan Purwojati",
+  "Desa": "Desa KarangTalun Kidul",
+  "Koordinat": "-7.49666214579684,109.096689939306"
+ },
+ {
+  "ID": "LOC304",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Banyumas",
+  "Kecamatan": "Kecamatan Purwojati",
+  "Desa": "Desa Karangmangu",
+  "Koordinat": "-7.47102239050032,109.143274881402"
+ },
+ {
+  "ID": "LOC305",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Banyumas",
+  "Kecamatan": "Kecamatan Sumpiuh",
+  "Desa": "Desa Selandaka",
+  "Koordinat": "-7.621778271051,109.368321496748"
+ },
+ {
+  "ID": "LOC306",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Banyumas",
+  "Kecamatan": "Kecamatan Tambak",
+  "Desa": "Desa Buniayu",
+  "Koordinat": "-7.62090057477821,109.43611311024"
+ },
+ {
+  "ID": "LOC307",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Batang",
+  "Kecamatan": "Kecamatan Kademan",
+  "Desa": "Desa Tegal sari",
+  "Koordinat": "-6.92752989830855,109.750938359583"
+ },
+ {
+  "ID": "LOC308",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Batang",
+  "Kecamatan": "Kecamatan Limpung",
+  "Desa": "Desa Dlisen",
+  "Koordinat": "-6.99958792482774,109.951309884655"
+ },
+ {
+  "ID": "LOC309",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Batang",
+  "Kecamatan": "Kecamatan Limpung",
+  "Desa": "Desa Lobang",
+  "Koordinat": "-7.05345139255599,109.919909879544"
+ },
+ {
+  "ID": "LOC310",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Batang",
+  "Kecamatan": "Kecamatan Tersono",
+  "Desa": "Desa Margosono",
+  "Koordinat": "-7.63277777777777,109.484166666666"
+ },
+ {
+  "ID": "LOC311",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Batang",
+  "Kecamatan": "Kecamatan Tersono",
+  "Desa": "Desa Rejosari Barat",
+  "Koordinat": "-7.02899638781892,109.949351982802"
+ },
+ {
+  "ID": "LOC312",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Blora",
+  "Kecamatan": "Kecamatan Ngawen",
+  "Desa": "Desa Bogowanti",
+  "Koordinat": "-7.04838749716297,111.366388888888"
+ },
+ {
+  "ID": "LOC313",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Boyolali",
+  "Kecamatan": "Kecamatan Boyolali",
+  "Desa": "Desa Mudal",
+  "Koordinat": "-7.50240300481435,110.606525839074"
+ },
+ {
+  "ID": "LOC314",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Boyolali",
+  "Kecamatan": "Kecamatan Cepogo",
+  "Desa": "Desa Jelok",
+  "Koordinat": "-7.52111111111111,110.559722222222"
+ },
+ {
+  "ID": "LOC315",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Boyolali",
+  "Kecamatan": "Kecamatan Simo",
+  "Desa": "Desa Sumber",
+  "Koordinat": "-7.41945555555555,110.73745"
+ },
+ {
+  "ID": "LOC316",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Brebes",
+  "Kecamatan": "Kecamatan Banjarharjo",
+  "Desa": "Desa Parerejo",
+  "Koordinat": "-6.98671246753226,108.852830701852",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC317",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Brebes",
+  "Kecamatan": "Kecamatan Salem",
+  "Desa": "Desa Bentar",
+  "Koordinat": "-7.15522222222222,108.805527777777"
+ },
+ {
+  "ID": "LOC318",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Brebes",
+  "Kecamatan": "Kecamatan Tonjong",
+  "Desa": "Desa Galuh Timur",
+  "Koordinat": "-7.20842016532662,108.993644698215"
+ },
+ {
+  "ID": "LOC319",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Brebes",
+  "Kecamatan": "Kecamatan Tonjong",
+  "Desa": "Desa Kalijurang",
+  "Koordinat": "-7.22529631828692,108.999078308086"
+ },
+ {
+  "ID": "LOC320",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Brebes",
+  "Kecamatan": "Kecamatan Tonjong",
+  "Desa": "Desa Kutamendala",
+  "Koordinat": "-7.16011181450043,108.994279632809"
+ },
+ {
+  "ID": "LOC321",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Cilacap",
+  "Kecamatan": "Kecamatan Dayeuh Luhur",
+  "Desa": "Desa Ciwalen",
+  "Koordinat": "-7.2877380616597,108.612937311638"
+ },
+ {
+  "ID": "LOC322",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Cilacap",
+  "Kecamatan": "Kecamatan Gandrungmangu",
+  "Desa": "Desa Karanganyar",
+  "Koordinat": "-7.47476080162842,108.850362794894"
+ },
+ {
+  "ID": "LOC323",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Cilacap",
+  "Kecamatan": "Kecamatan Gandrungmangu",
+  "Desa": "Desa Muktisari",
+  "Koordinat": "-7.5013096783272,108.854653021209"
+ },
+ {
+  "ID": "LOC324",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Cilacap",
+  "Kecamatan": "Kecamatan Karangpucung",
+  "Desa": "Desa Sindangbarang",
+  "Koordinat": "-7.44004830401812,108.889209696442"
+ },
+ {
+  "ID": "LOC325",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Cilacap",
+  "Kecamatan": "Kecamatan Majenang",
+  "Desa": "Desa Padangsari",
+  "Koordinat": "-7.36614684822263,108.712490802165"
+ },
+ {
+  "ID": "LOC326",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Cilacap",
+  "Kecamatan": "Kecamatan Majenang",
+  "Desa": "Desa Pahonjean",
+  "Koordinat": "-7.32460211470004,108.738614279547"
+ },
+ {
+  "ID": "LOC327",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Cilacap",
+  "Kecamatan": "Kecamatan Wanareja",
+  "Desa": "Desa Bantar",
+  "Koordinat": "-7.36628400051101,108.712797934776"
+ },
+ {
+  "ID": "LOC328",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Demak",
+  "Kecamatan": "Kecamatan Dempet",
+  "Desa": "Desa Kebon Sari",
+  "Koordinat": "-6.94248048899898,110.722136837215",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC329",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Demak",
+  "Kecamatan": "Kecamatan Karangawen",
+  "Desa": "Desa Karangawen",
+  "Koordinat": "-7.03701316884427,110.567176094924",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC330",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Demak",
+  "Kecamatan": "Kecamatan Sayung",
+  "Desa": "Desa Gemulak",
+  "Koordinat": "-6.92103733195117,110.534632164198",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC331",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Grobogan",
+  "Kecamatan": "Kecamatan Pulokulon",
+  "Desa": "Desa Pojok",
+  "Koordinat": "-7.17037222222222,111.035191666666"
+ },
+ {
+  "ID": "LOC332",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Jepara",
+  "Kecamatan": "Kecamatan Donorejo",
+  "Desa": "Desa Sumberejo",
+  "Koordinat": "-6.45349656555521,110.95715644418"
+ },
+ {
+  "ID": "LOC333",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Jepara",
+  "Kecamatan": "Kecamatan Kalinyamatan",
+  "Desa": "Desa Banyuputih",
+  "Koordinat": "-6.96611111111111,110.963888888888"
+ },
+ {
+  "ID": "LOC334",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Jepara",
+  "Kecamatan": "Kecamatan Nalunsari",
+  "Desa": "Desa Gemiringlor",
+  "Koordinat": "-6.74217219290746,110.790404788665"
+ },
+ {
+  "ID": "LOC335",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Jepara",
+  "Kecamatan": "Kecamatan Pecangaan",
+  "Desa": "Desa Troso",
+  "Koordinat": "-6.67144444444444,110.714027777777"
+ },
+ {
+  "ID": "LOC336",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Karanganyar",
+  "Kecamatan": "Kecamatan Gondangrejo",
+  "Desa": "Desa Jatikuwung",
+  "Koordinat": "-7.50772375730164,110.828971476798"
+ },
+ {
+  "ID": "LOC337",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Karanganyar",
+  "Kecamatan": "Kecamatan Jatipuro",
+  "Desa": "Desa Jatimulyo",
+  "Koordinat": "-7.73240349228594,110.991624581405"
+ },
+ {
+  "ID": "LOC338",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Karanganyar",
+  "Kecamatan": "Kecamatan Jumantono",
+  "Desa": "Desa Sedayu",
+  "Koordinat": "-7.67492911013342,110.969959997841"
+ },
+ {
+  "ID": "LOC339",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Kebumen",
+  "Kecamatan": "Kecamatan Karanganyar",
+  "Desa": "Desa Giripurno",
+  "Koordinat": "-7.71666666666666,109.683333333333"
+ },
+ {
+  "ID": "LOC340",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Kebumen",
+  "Kecamatan": "Kecamatan Karanganyar",
+  "Desa": "Desa Candi",
+  "Koordinat": "-7.62661397817917,109.583690750715"
+ },
+ {
+  "ID": "LOC341",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Kebumen",
+  "Kecamatan": "Kecamatan Kebumen",
+  "Desa": "Desa Jemur",
+  "Koordinat": "-7.64694049868852,109.6584667"
+ },
+ {
+  "ID": "LOC342",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Kebumen",
+  "Kecamatan": "Kecamatan Kutowinangun",
+  "Desa": "Desa Lumbu",
+  "Koordinat": "-7.682568,109.756352"
+ },
+ {
+  "ID": "LOC343",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Kebumen",
+  "Kecamatan": "Kecamatan Padurekso",
+  "Desa": "Desa Kaligubug",
+  "Koordinat": "-7.69975545403705,109.649892706535"
+ },
+ {
+  "ID": "LOC344",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Kebumen",
+  "Kecamatan": "Kecamatan Seruweng",
+  "Desa": "Desa Penusupan",
+  "Koordinat": "-7.60183333333333,109.609527777777"
+ },
+ {
+  "ID": "LOC345",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Kebumen",
+  "Kecamatan": "Kecamatan Sruweng",
+  "Desa": "Desa Karang Jambu",
+  "Koordinat": "-7.63515833333333,109.608672222222"
+ },
+ {
+  "ID": "LOC346",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Kendal",
+  "Kecamatan": "Kecamatan Kaliwungu",
+  "Desa": "Desa Sumberejo",
+  "Koordinat": "-6.96861111111111,110.2775"
+ },
+ {
+  "ID": "LOC347",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Kendal",
+  "Kecamatan": "Kecamatan Ngampel",
+  "Desa": "Desa Ngampel Wetan",
+  "Koordinat": "-7.12055555555555,110.346666666666"
+ },
+ {
+  "ID": "LOC348",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Kendal",
+  "Kecamatan": "Kecamatan Singorojo",
+  "Desa": "Desa Kertosari",
+  "Koordinat": "-7.056775,110.2553"
+ },
+ {
+  "ID": "LOC349",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Kendal",
+  "Kecamatan": "Kecamatan Sukorejo",
+  "Desa": "Desa Judowo",
+  "Koordinat": "-7.12640694410052,109.986479352562"
+ },
+ {
+  "ID": "LOC350",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Klaten",
+  "Kecamatan": "Kecamatan Karangnongko",
+  "Desa": "Desa Ngemplak",
+  "Koordinat": "-7.635,110.51438"
+ },
+ {
+  "ID": "LOC351",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Klaten",
+  "Kecamatan": "Kecamatan Manisrenggo",
+  "Desa": "Desa Ngemplakseneng",
+  "Koordinat": "-7.6631162018945,110.48914956606"
+ },
+ {
+  "ID": "LOC352",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Kudus",
+  "Kecamatan": "Kecamatan Dawe",
+  "Desa": "Desa Kandangmas",
+  "Koordinat": "-6.74530894281115,110.910309991804"
+ },
+ {
+  "ID": "LOC353",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Kudus",
+  "Kecamatan": "Kecamatan Dawe",
+  "Desa": "Desa Lau",
+  "Koordinat": "-6.72643861830738,110.890861442468"
+ },
+ {
+  "ID": "LOC354",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Kudus",
+  "Kecamatan": "Kecamatan Gawe",
+  "Desa": "Desa Tergo",
+  "Koordinat": "-6.70260555555555,110.894163888888"
+ },
+ {
+  "ID": "LOC355",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Kudus",
+  "Kecamatan": "Kecamatan Jekulo",
+  "Desa": "Desa Terban",
+  "Koordinat": "-6.79958333333333,110.9442"
+ },
+ {
+  "ID": "LOC356",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Magelang",
+  "Kecamatan": "Kecamatan Bandongan",
+  "Desa": "Desa Sukosari",
+  "Koordinat": "-7.49919444444444,110.1715"
+ },
+ {
+  "ID": "LOC357",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Magelang",
+  "Kecamatan": "Kecamatan Borobudur",
+  "Desa": "Desa Kenalan",
+  "Koordinat": "-7.64501827502106,110.229289216059"
+ },
+ {
+  "ID": "LOC358",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Magelang",
+  "Kecamatan": "Kecamatan Borobudur",
+  "Desa": "Desa Kembang Limus",
+  "Koordinat": "-7.60339969598736,110.182184373016"
+ },
+ {
+  "ID": "LOC359",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Magelang",
+  "Kecamatan": "Kecamatan Mertoyudan",
+  "Desa": "Desa Donorojo",
+  "Koordinat": "-7.55424391782269,110.215797406755"
+ },
+ {
+  "ID": "LOC360",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Magelang",
+  "Kecamatan": "Kecamatan Salaman",
+  "Desa": "Desa Ngargoretno",
+  "Koordinat": "-7.63253,110.15082"
+ },
+ {
+  "ID": "LOC361",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Magelang",
+  "Kecamatan": "Kecamatan Salaman",
+  "Desa": "Desa Sriwedari",
+  "Koordinat": "-7.56502317939524,110.111208579411"
+ },
+ {
+  "ID": "LOC362",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Pati",
+  "Kecamatan": "Kecamatan Gembong",
+  "Desa": "Desa Situluhur",
+  "Koordinat": "-6.72904269165276,111.00541164103"
+ },
+ {
+  "ID": "LOC363",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Pati",
+  "Kecamatan": "Kecamatan Gunungwungkal",
+  "Desa": "Desa Perdopo",
+  "Koordinat": "-6.58666693305229,110.973941766048"
+ },
+ {
+  "ID": "LOC364",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Pati",
+  "Kecamatan": "Kecamatan Gunungwungkal",
+  "Desa": "Desa Sidomulyo",
+  "Koordinat": "-6.60453333333333,110.96225"
+ },
+ {
+  "ID": "LOC365",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Pati",
+  "Kecamatan": "Kecamatan Tambakromo",
+  "Desa": "Desa Karangawen",
+  "Koordinat": "-6.89976671026146,111.03392809674"
+ },
+ {
+  "ID": "LOC366",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Pekalongan",
+  "Kecamatan": "Kecamatan Bojong",
+  "Desa": "Desa Legokclile",
+  "Koordinat": "-6.95909509801887,109.590307523724"
+ },
+ {
+  "ID": "LOC367",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Pekalongan",
+  "Kecamatan": "Kecamatan Karanganyar",
+  "Desa": "Desa Pedodadi",
+  "Koordinat": "-7.02523,109.64504"
+ },
+ {
+  "ID": "LOC368",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Pekalongan",
+  "Kecamatan": "Kecamatan Sragi",
+  "Desa": "Desa Mrican",
+  "Koordinat": "-6.96194444444444,109.508936111111"
+ },
+ {
+  "ID": "LOC369",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Pekalongan",
+  "Kecamatan": "Kecamatan Wonokerto",
+  "Desa": "Desa Pesanggrahan",
+  "Koordinat": "-6.88099045337908,109.637287084655"
+ },
+ {
+  "ID": "LOC370",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Pekalongan",
+  "Kecamatan": "Kecamatan Wonokerto",
+  "Desa": "Desa Wonokerto Wetan",
+  "Koordinat": "-6.88836111111111,109.645805555555"
+ },
+ {
+  "ID": "LOC371",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Pemalang",
+  "Kecamatan": "Kecamatan Bodeh",
+  "Desa": "Desa Bodeh",
+  "Koordinat": "-6.96666666666666,109.4952"
+ },
+ {
+  "ID": "LOC372",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Pemalang",
+  "Kecamatan": "Kecamatan Petarukan",
+  "Desa": "Desa Kali Randu",
+  "Koordinat": "-6.89357957273717,109.463995608379"
+ },
+ {
+  "ID": "LOC373",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Pemalang",
+  "Kecamatan": "Kecamatan Petarukan",
+  "Desa": "Desa Widodaren",
+  "Koordinat": "-6.92000876736191,109.484714107079"
+ },
+ {
+  "ID": "LOC374",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Pemalang",
+  "Kecamatan": "Kecamatan Pulosari",
+  "Desa": "Desa Nyelembeng",
+  "Koordinat": "-7.17111666666666,109.247272222222"
+ },
+ {
+  "ID": "LOC375",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Purbalinga",
+  "Kecamatan": "Kecamatan Kebojong",
+  "Desa": "Desa Langgar",
+  "Koordinat": "-7.39527437328759,109.520951593447"
+ },
+ {
+  "ID": "LOC376",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Purbalingga",
+  "Kecamatan": "Kecamatan Kaligondang",
+  "Desa": "Desa Arenan",
+  "Koordinat": "-7.36120276395954,109.406154949845"
+ },
+ {
+  "ID": "LOC377",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Purbalingga",
+  "Kecamatan": "Kecamatan Karanganyar",
+  "Desa": "Desa Bungkanel",
+  "Koordinat": "-7.43333333333333,109.383333333333"
+ },
+ {
+  "ID": "LOC378",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Purbalingga",
+  "Kecamatan": "Kecamatan Kejobong",
+  "Desa": "Desa Timbang",
+  "Koordinat": "-7.39823446914474,109.543156835764"
+ },
+ {
+  "ID": "LOC379",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Purbalingga",
+  "Kecamatan": "Kecamatan Kelobong",
+  "Desa": "Desa Kejobong",
+  "Koordinat": "-7.39100346222876,109.507345339073"
+ },
+ {
+  "ID": "LOC380",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Purbalingga",
+  "Kecamatan": "Kecamatan Kemangkon",
+  "Desa": "Desa Kemangkon",
+  "Koordinat": "-7.46435616075556,109.410538447864"
+ },
+ {
+  "ID": "LOC381",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Purworejo",
+  "Kecamatan": "Kecamatan Bagelen",
+  "Desa": "Desa Krendetan",
+  "Koordinat": "-7.84816666666666,109.997055555555"
+ },
+ {
+  "ID": "LOC382",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Purworejo",
+  "Kecamatan": "Kecamatan Banyuurip",
+  "Desa": "Desa Sokowaten",
+  "Koordinat": "-7.71486886111111,110.006155833333"
+ },
+ {
+  "ID": "LOC383",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Purworejo",
+  "Kecamatan": "Kecamatan Bener",
+  "Desa": "Desa Nglaris",
+  "Koordinat": "-7.52408333333333,110.033166666666"
+ },
+ {
+  "ID": "LOC384",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Purworejo",
+  "Kecamatan": "Kecamatan Kemiri",
+  "Desa": "Desa Samping",
+  "Koordinat": "-7.66673,109.87672"
+ },
+ {
+  "ID": "LOC385",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Puworejo",
+  "Kecamatan": "Kecamatan Gebang",
+  "Desa": "Desa Bendosari",
+  "Koordinat": "-7.64425555555555,109.991111111111"
+ },
+ {
+  "ID": "LOC386",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Rembang",
+  "Kecamatan": "Kecamatan Rembang",
+  "Desa": "Desa Tlogomojo",
+  "Koordinat": "-6.72320027602426,111.404446361976"
+ },
+ {
+  "ID": "LOC387",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Semarang",
+  "Kecamatan": "Kecamatan Bancak",
+  "Desa": "Desa Wonokerto",
+  "Koordinat": "-7.23295042348473,110.582911527127"
+ },
+ {
+  "ID": "LOC388",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Semarang",
+  "Kecamatan": "Kecamatan Ngalian",
+  "Desa": "Desa Tambak Aji Ngalian",
+  "Koordinat": "-6.98416111865112,110.330294871163"
+ },
+ {
+  "ID": "LOC389",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Semarang",
+  "Kecamatan": "Kecamatan Ungaran Barat",
+  "Desa": "Desa Lerep",
+  "Koordinat": "-7.56861111111111,110.398286111111"
+ },
+ {
+  "ID": "LOC390",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Sragen",
+  "Kecamatan": "Kecamatan Masaran",
+  "Desa": "Desa Kliwonan",
+  "Koordinat": "-7.47103337619191,110.896981341894"
+ },
+ {
+  "ID": "LOC391",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Sragen",
+  "Kecamatan": "Kecamatan Masaran",
+  "Desa": "Desa Sepat",
+  "Koordinat": "-7.50281666666666,110.966683333333"
+ },
+ {
+  "ID": "LOC392",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Sragen",
+  "Kecamatan": "Kecamatan Plupuh",
+  "Desa": "Desa Sidokerto",
+  "Koordinat": "-7.48591666666666,110.890416666666"
+ },
+ {
+  "ID": "LOC393",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Sragen",
+  "Kecamatan": "Kecamatan Sambung Macan",
+  "Desa": "Desa Karanganyar",
+  "Koordinat": "-7.45,111.016666666666"
+ },
+ {
+  "ID": "LOC394",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Sragen",
+  "Kecamatan": "Kecamatan Tangen",
+  "Desa": "Desa Dukuh",
+  "Koordinat": "-7.32080614690643,111.047117818197"
+ },
+ {
+  "ID": "LOC395",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Sukoharjo",
+  "Kecamatan": "Kecamatan Bulu",
+  "Desa": "Desa Puron",
+  "Koordinat": "-7.74978053294835,110.806492450716"
+ },
+ {
+  "ID": "LOC396",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Tegal",
+  "Kecamatan": "Kecamatan Adiwerna",
+  "Desa": "Desa Kaliwadas",
+  "Koordinat": "-6.92842676983649,109.119339760009"
+ },
+ {
+  "ID": "LOC397",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Tegal",
+  "Kecamatan": "Kecamatan Jatinegara",
+  "Desa": "Desa Gantungan",
+  "Koordinat": "-7.07214871835442,109.227921904675"
+ },
+ {
+  "ID": "LOC398",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Temanggung",
+  "Kecamatan": "Kecamatan Kandangan",
+  "Desa": "Desa Gesing",
+  "Koordinat": "-7.22680555555555,110.196777777777"
+ },
+ {
+  "ID": "LOC399",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Temanggung",
+  "Kecamatan": "Kecamatan Pringsurat",
+  "Desa": "Desa Wonokerso",
+  "Koordinat": "-7.28604166666666,110.306375"
+ },
+ {
+  "ID": "LOC400",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Wonogiri",
+  "Kecamatan": "Kecamatan Bulukerto",
+  "Desa": "Desa Bulurejo",
+  "Koordinat": "-7.78744176310367,111.248985801088"
+ },
+ {
+  "ID": "LOC401",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Wonogiri",
+  "Kecamatan": "Kecamatan Giritontro",
+  "Desa": "Desa Tlogoharjo",
+  "Koordinat": "-8.09439472606344,110.913128687514"
+ },
+ {
+  "ID": "LOC402",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Wonogiri",
+  "Kecamatan": "Kecamatan Giritontro",
+  "Desa": "Desa Tlogosari",
+  "Koordinat": "-7.81666666666666,110.906375"
+ },
+ {
+  "ID": "LOC403",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Wonogiri",
+  "Kecamatan": "Kecamatan Manyaran",
+  "Desa": "Desa Pagutan",
+  "Koordinat": "-7.83556758345939,110.788333299999"
+ },
+ {
+  "ID": "LOC404",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Wonogiri",
+  "Kecamatan": "Kecamatan Mayaran",
+  "Desa": "Desa Pijiharjo",
+  "Koordinat": "-7.86998243651558,110.821367067915"
+ },
+ {
+  "ID": "LOC405",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Wonogiri",
+  "Kecamatan": "Kecamatan Pracimantaro",
+  "Desa": "Desa Gambirmanis",
+  "Koordinat": "-7.83331035460182,110.916673030325"
+ },
+ {
+  "ID": "LOC406",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Wonogiri",
+  "Kecamatan": "Kecamatan Pracimantaro",
+  "Desa": "Desa WatangRejo",
+  "Koordinat": "-8.10212823909135,110.823705128836"
+ },
+ {
+  "ID": "LOC407",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Wonogiri",
+  "Kecamatan": "Kecamatan Pracimantoro",
+  "Desa": "Desa Jimbar",
+  "Koordinat": "-8.05993166666666,110.853202777777"
+ },
+ {
+  "ID": "LOC408",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Wonogiri",
+  "Kecamatan": "Kecamatan Pracimantoro",
+  "Desa": "Desa Trukan",
+  "Koordinat": "-8.02575,110.848416666666"
+ },
+ {
+  "ID": "LOC409",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Wonogiri",
+  "Kecamatan": "Kecamatan Wonogiri",
+  "Desa": "Desa Wonokerto",
+  "Koordinat": "-7.775534,110.942723"
+ },
+ {
+  "ID": "LOC410",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Wonosobo",
+  "Kecamatan": "Kecamatan Kalibawang",
+  "Desa": "Desa Depok",
+  "Koordinat": "-7.49897222222222,109.907202777777"
+ },
+ {
+  "ID": "LOC411",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Wonosobo",
+  "Kecamatan": "Kecamatan Wadas Lintang",
+  "Desa": "Desa Ngalian",
+  "Koordinat": "-7.506145,109.822509"
+ },
+ {
+  "ID": "LOC412",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Wonosobo",
+  "Kecamatan": "Kecamatan Wadas Lintang",
+  "Desa": "Desa Sumberejo",
+  "Koordinat": "-7.60495555555555,109.794177777777"
+ },
+ {
+  "ID": "LOC413",
+  "Provinsi": "Jawa Tengah",
+  "Wilayah": "Kabupaten Wonosobo",
+  "Kecamatan": "Kecamatan Wadaslintang",
+  "Desa": "Desa Karanganyar",
+  "Koordinat": "-7.4,109.9"
+ },
+ {
+  "ID": "LOC414",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Bangkalan",
+  "Kecamatan": "Kecamatan Blega",
+  "Desa": "Desa Gigir",
+  "Koordinat": "-7.14346188520877,112.998526733056"
+ },
+ {
+  "ID": "LOC415",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Bangkalan",
+  "Kecamatan": "Kecamatan Blegah",
+  "Desa": "Desa Lombang Dejeh",
+  "Koordinat": "-7.142932,113.019255"
+ },
+ {
+  "ID": "LOC416",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Bangkalan",
+  "Kecamatan": "Kecamatan Burneh",
+  "Desa": "Desa Alaskembang",
+  "Koordinat": "-7.03438028464917,112.832469587289"
+ },
+ {
+  "ID": "LOC417",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Bangkalan",
+  "Kecamatan": "Kecamatan Galis",
+  "Desa": "Desa Lantek Timur",
+  "Koordinat": "-7.044691,113.043281"
+ },
+ {
+  "ID": "LOC418",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Bangkalan",
+  "Kecamatan": "Kecamatan Galis",
+  "Desa": "Desa Krangan Timur",
+  "Koordinat": "-7.10778916878155,112.916998059561"
+ },
+ {
+  "ID": "LOC419",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Bangkalan",
+  "Kecamatan": "Kecamatan Kokop",
+  "Desa": "Desa Dupok",
+  "Koordinat": "-6.93893178756871,113.030161464199"
+ },
+ {
+  "ID": "LOC420",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Bangkalan",
+  "Kecamatan": "Kecamatan Konang",
+  "Desa": "Desa Durin Timur",
+  "Koordinat": "-7.044691,113.043281"
+ },
+ {
+  "ID": "LOC421",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Bangkalan",
+  "Kecamatan": "Kecamatan Modung",
+  "Desa": "Desa Brakas Daja",
+  "Koordinat": "-7.166990929483906, 112.94439502347595"
+ },
+ {
+  "ID": "LOC422",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Bangkalan",
+  "Kecamatan": "Kecamatan Modung",
+  "Desa": "Desa Suwaan",
+  "Koordinat": "-7.17507137040635,112.95389177755"
+ },
+ {
+  "ID": "LOC423",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Bangkalan",
+  "Kecamatan": "Kecamatan Tanjung Bumi",
+  "Desa": "Tambak Pocok",
+  "Koordinat": "-6.915646,113.104756"
+ },
+ {
+  "ID": "LOC424",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Banyuwangi",
+  "Kecamatan": "Kecamatan Muncar",
+  "Desa": "Desa Tapan Rejo",
+  "Koordinat": "-8.42977659108929,114.283693852578"
+ },
+ {
+  "ID": "LOC425",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Banyuwangi",
+  "Kecamatan": "Kecamatan Muncar",
+  "Desa": "Desa Tapan Rejo",
+  "Koordinat": "-8.42992517200393,114.283543648872"
+ },
+ {
+  "ID": "LOC426",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Banyuwangi",
+  "Kecamatan": "Kecamatan Wongsorejo",
+  "Desa": "Desa Watukebo",
+  "Koordinat": "-7.93178851114933,114.371394508391"
+ },
+ {
+  "ID": "LOC427",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Blitar",
+  "Kecamatan": "Kecamatan Binangun",
+  "Desa": "Desa Binangun",
+  "Koordinat": "-8.30202777777777,112.526158333333"
+ },
+ {
+  "ID": "LOC428",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Blitar",
+  "Kecamatan": "Kecamatan Binangun",
+  "Desa": "Desa Sumber Kembar",
+  "Koordinat": "-8.23518949156128,112.320989079558"
+ },
+ {
+  "ID": "LOC429",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Blitar",
+  "Kecamatan": "Kecamatan Wonotirto",
+  "Desa": "Desa Ngeni",
+  "Koordinat": "-8.27258333333333,112.196138888888"
+ },
+ {
+  "ID": "LOC430",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Bondowoso",
+  "Kecamatan": "Kecamatan Cereme",
+  "Desa": "Desa Batusalang",
+  "Koordinat": "-7.81413888888888,114.076805555555"
+ },
+ {
+  "ID": "LOC431",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Bondowoso",
+  "Kecamatan": "Kecamatan Cerme",
+  "Desa": "Desa Keladi",
+  "Koordinat": "-7.81578018807939,114.086383881406"
+ },
+ {
+  "ID": "LOC432",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Bondowoso",
+  "Kecamatan": "Kecamatan Wringin",
+  "Desa": "Desa Jati Sari",
+  "Koordinat": "-7.83099999999999,113.7605"
+ },
+ {
+  "ID": "LOC433",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Gresik",
+  "Kecamatan": "Kecamatan Bunjeng",
+  "Desa": "Desa Karangan Kidul",
+  "Koordinat": "-7.25480092376624,112.470576154043"
+ },
+ {
+  "ID": "LOC434",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Gresik",
+  "Kecamatan": "Kecamatan Duduk Sapean",
+  "Desa": "Desa Kandangan",
+  "Koordinat": "-7.14143355241579,112.475780884732"
+ },
+ {
+  "ID": "LOC435",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Gresik",
+  "Kecamatan": "Kecamatan Duduk Sapean",
+  "Desa": "Desa Panjunan",
+  "Koordinat": "-7.14677866520522,112.483603321873"
+ },
+ {
+  "ID": "LOC436",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Gresik",
+  "Kecamatan": "Kecamatan Manyar",
+  "Desa": "Desa Pejangganan",
+  "Koordinat": "-7.06088527777777,112.554822808549"
+ },
+ {
+  "ID": "LOC437",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Jember",
+  "Kecamatan": "Kecamatan Bangsalsari",
+  "Desa": "Desa Bangsalsari",
+  "Koordinat": "-8.22427777777777,113.548472222222"
+ },
+ {
+  "ID": "LOC438",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Jember",
+  "Kecamatan": "Kecamatan Jelbuk",
+  "Desa": "Desa Suco Pangepok",
+  "Koordinat": "-8.11230555555555,113.892527777777"
+ },
+ {
+  "ID": "LOC439",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Jember",
+  "Kecamatan": "Kecamatan Ledokombo",
+  "Desa": "Desa Sumber Salak",
+  "Koordinat": "-8.15778115122026,113.880480062934"
+ },
+ {
+  "ID": "LOC440",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Jember",
+  "Kecamatan": "Kecamatan Patrang",
+  "Desa": "Desa Patrang",
+  "Koordinat": "-8.14514499133021,113.713900660471"
+ },
+ {
+  "ID": "LOC441",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Jember",
+  "Kecamatan": "Kecamatan Pausari",
+  "Desa": "Desa Sumber Pinang",
+  "Koordinat": "-8.20955,113.680266666666"
+ },
+ {
+  "ID": "LOC442",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Jember",
+  "Kecamatan": "Kecamatan Silo",
+  "Desa": "Desa Karangharjo",
+  "Koordinat": "-8.23805555555555,113.813694444444"
+ },
+ {
+  "ID": "LOC443",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Jember",
+  "Kecamatan": "Kecamatan Sukorambi",
+  "Desa": "Desa Jubung",
+  "Koordinat": "-8.18816777777777,113.641157853237"
+ },
+ {
+  "ID": "LOC444",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Jember",
+  "Kecamatan": "Kecamatan Sukowono",
+  "Desa": "Desa Poncangan",
+  "Koordinat": "-8.03002116477605,113.850379079556"
+ },
+ {
+  "ID": "LOC445",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Jember",
+  "Kecamatan": "Kecamatan Sukowono",
+  "Desa": "Desa Sukuwono",
+  "Koordinat": "-8.0581,113.823683333333"
+ },
+ {
+  "ID": "LOC446",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Jember",
+  "Kecamatan": "Kecamatan Wuluhan",
+  "Desa": "Desa Lohjejer",
+  "Koordinat": "-8.35210612088742,113.500581067921"
+ },
+ {
+  "ID": "LOC447",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Jombang",
+  "Kecamatan": "Kecamatan Kudu",
+  "Desa": "Desa Sumber Teguh",
+  "Koordinat": "-7.41627810123133,112.310805538687"
+ },
+ {
+  "ID": "LOC448",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Kediri",
+  "Kecamatan": "Kecamatan Mojo",
+  "Desa": "Desa Kranding",
+  "Koordinat": "-7.93730487053736,111.925280031652"
+ },
+ {
+  "ID": "LOC449",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Kediri",
+  "Kecamatan": "Kecamatan Mojo",
+  "Desa": "Desa Ngadi",
+  "Koordinat": "-7.94265,111.920366666666"
+ },
+ {
+  "ID": "LOC450",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Kediri",
+  "Kecamatan": "Kecamatan Semen",
+  "Desa": "Desa Sidomulyo",
+  "Koordinat": "-7.84382040384297,111.990269212373"
+ },
+ {
+  "ID": "LOC451",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Kediri",
+  "Kecamatan": "Kecamatan Tarokan",
+  "Desa": "Desa Tarokan",
+  "Koordinat": "-7.75306946958518,111.904796066061"
+ },
+ {
+  "ID": "LOC452",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Lamongan",
+  "Kecamatan": "Kecamatan Kembangbahu",
+  "Desa": "Desa Mangkujajar",
+  "Koordinat": "-7.17197683594906,112.365267535365"
+ },
+ {
+  "ID": "LOC453",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Lumajang",
+  "Kecamatan": "Kecamatan Jatiroto",
+  "Desa": "Desa Rojopolo",
+  "Koordinat": "-8.13572222222222,113.331111111111"
+ },
+ {
+  "ID": "LOC454",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Lumajang",
+  "Kecamatan": "Kecamatan Kedung Jajang",
+  "Desa": "Desa Grobongan",
+  "Koordinat": "-8.06472222222222,113.296666666666"
+ },
+ {
+  "ID": "LOC455",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Lumajang",
+  "Kecamatan": "Kecamatan Kedungjajang",
+  "Desa": "Desa Umbul",
+  "Koordinat": "-8.07337730136384,113.274711274393"
+ },
+ {
+  "ID": "LOC456",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Lumajang",
+  "Kecamatan": "Kecamatan Padang",
+  "Desa": "Desa Barat",
+  "Koordinat": "-8.20955,113.680266666666"
+ },
+ {
+  "ID": "LOC457",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Lumajang",
+  "Kecamatan": "Kecamatan Padang",
+  "Desa": "Desa Bodang",
+  "Koordinat": "-8.09685941054794,113.155076067918"
+ },
+ {
+  "ID": "LOC458",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Lumajang",
+  "Kecamatan": "Kecamatan Pasirian",
+  "Desa": "Desa Condro",
+  "Koordinat": "-8.22526944444444,113.124127777777"
+ },
+ {
+  "ID": "LOC459",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Lumajang",
+  "Kecamatan": "Kecamatan Senduro",
+  "Desa": "Desa Sari Kemuning",
+  "Koordinat": "-8.11533897999064,113.126136362724"
+ },
+ {
+  "ID": "LOC460",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Lumajang",
+  "Kecamatan": "Kecamatan Sukodono",
+  "Desa": "Desa Kebonagung",
+  "Koordinat": "-8.1071305381085,113.211457067918"
+ },
+ {
+  "ID": "LOC461",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Madiun",
+  "Kecamatan": "Kecamatan Saradan",
+  "Desa": "Desa Sumbersari",
+  "Koordinat": "-7.52361111111111,111.6925"
+ },
+ {
+  "ID": "LOC462",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Madiun",
+  "Kecamatan": "Kecamatan Wungu",
+  "Desa": "Desa Wungu",
+  "Koordinat": "-7.68041274065173,111.608682150715"
+ },
+ {
+  "ID": "LOC463",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Magetan",
+  "Kecamatan": "Kecamatan Lembeyan",
+  "Desa": "Desa Pupus",
+  "Koordinat": "-7.7386373209049,111.403360767913"
+ },
+ {
+  "ID": "LOC464",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Magetan",
+  "Kecamatan": "Kecamatan Parang",
+  "Desa": "Desa Ngunut",
+  "Koordinat": "-7.74801626872223,111.307910967913"
+ },
+ {
+  "ID": "LOC465",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Magetan",
+  "Kecamatan": "Kecamatan Parang",
+  "Desa": "Desa Taman Arum",
+  "Koordinat": "-7.73147222222222,111.339944444444"
+ },
+ {
+  "ID": "LOC466",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Magetan",
+  "Kecamatan": "Kecamatan Parang",
+  "Desa": "Desa Nglopang",
+  "Koordinat": "-7.77798674813835,111.330219629042"
+ },
+ {
+  "ID": "LOC467",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Malang",
+  "Kecamatan": "Kecamatan Ampelgading",
+  "Desa": "Desa Argoyuwono",
+  "Koordinat": "-8.18386111111111,112.887388888888"
+ },
+ {
+  "ID": "LOC468",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Malang",
+  "Kecamatan": "Kecamatan Bantur",
+  "Desa": "Desa Bandungrejo",
+  "Koordinat": "-8.30206944444444,112.526152777777"
+ },
+ {
+  "ID": "LOC469",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Malang",
+  "Kecamatan": "Kecamatan Donomulyo",
+  "Desa": "Desa Puworejo",
+  "Koordinat": "-8.25520555555555,112.400147222222"
+ },
+ {
+  "ID": "LOC470",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Malang",
+  "Kecamatan": "Kecamatan Gendangan",
+  "Desa": "Desa Sindurejo",
+  "Koordinat": "-8.34255555555555,112.628666666666"
+ },
+ {
+  "ID": "LOC471",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Malang",
+  "Kecamatan": "Kecamatan Kalipare",
+  "Desa": "Desa Putukrejo",
+  "Koordinat": "-8.24311523416882,112.468194394903"
+ },
+ {
+  "ID": "LOC472",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Malang",
+  "Kecamatan": "Kecamatan Pakishaji",
+  "Desa": "Desa Wonokerso",
+  "Koordinat": "-8.08006443475731,112.61694385072"
+ },
+ {
+  "ID": "LOC473",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Nganjuk",
+  "Kecamatan": "Kecamatan Berbek",
+  "Desa": "Desa Sandang Bumen",
+  "Koordinat": "-7.65211111111111,111.850722222222"
+ },
+ {
+  "ID": "LOC474",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Nganjuk",
+  "Kecamatan": "Kecamatan Berbek",
+  "Desa": "Desa Sindang Bumen",
+  "Koordinat": "-7.64052385256187,111.864612084439"
+ },
+ {
+  "ID": "LOC475",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Nganjuk",
+  "Kecamatan": "Kecamatan Loceret",
+  "Desa": "Desa Macanan",
+  "Koordinat": "-7.72125333327219,111.879063020883"
+ },
+ {
+  "ID": "LOC476",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Nganjuk",
+  "Kecamatan": "Kecamatan Ngluyu",
+  "Desa": "Desa Ngluyu",
+  "Koordinat": "-7.45731223081407,111.958568179549"
+ },
+ {
+  "ID": "LOC477",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Ngawi",
+  "Kecamatan": "Kecamatan Gerih",
+  "Desa": "Desa Guyung",
+  "Koordinat": "-7.51978726124684,111.392965008386"
+ },
+ {
+  "ID": "LOC478",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Ngawi",
+  "Kecamatan": "Kecamatan Gerih",
+  "Desa": "Desa Gerih",
+  "Koordinat": "-7.52678263744707,111.410947150714"
+ },
+ {
+  "ID": "LOC479",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Ngawi",
+  "Kecamatan": "Kecamatan Karang Anyar",
+  "Desa": "Desa Mengger",
+  "Koordinat": "-7.343796,111.217598"
+ },
+ {
+  "ID": "LOC480",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Ngawi",
+  "Kecamatan": "Kecamatan Mantingan",
+  "Desa": "Desa Tambakboyo",
+  "Koordinat": "-7.41589702796943,111.12394806364"
+ },
+ {
+  "ID": "LOC481",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pacitan",
+  "Kecamatan": "Kecamatan Arjosari",
+  "Desa": "Desa Sedayu",
+  "Koordinat": "-8.11870555555555,111.132413888888"
+ },
+ {
+  "ID": "LOC482",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pacitan",
+  "Kecamatan": "Kecamatan Bandar",
+  "Desa": "Desa Kledung",
+  "Koordinat": "-8.01477273059895,111.280390222908"
+ },
+ {
+  "ID": "LOC483",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pacitan",
+  "Kecamatan": "Kecamatan Donorejo",
+  "Desa": "Desa Sedang",
+  "Koordinat": "-8.21457581811745,110.950526967267"
+ },
+ {
+  "ID": "LOC484",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pacitan",
+  "Kecamatan": "Kecamatan Kebon Agung",
+  "Desa": "Desa Karangnongko",
+  "Koordinat": "-8.23584278266266,111.136875881411"
+ },
+ {
+  "ID": "LOC485",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pacitan",
+  "Kecamatan": "Kecamatan Kebon Agung",
+  "Desa": "Desa Wonogonro",
+  "Koordinat": "-8.1835,111.231111111111"
+ },
+ {
+  "ID": "LOC486",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pacitan",
+  "Kecamatan": "Kecamatan Kebonagung",
+  "Desa": "Desa Worawari",
+  "Koordinat": "-8.2376937928348,111.221366250722"
+ },
+ {
+  "ID": "LOC487",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pacitan",
+  "Kecamatan": "Kecamatan Nawangan",
+  "Desa": "Desa Pakis Baru",
+  "Koordinat": "-7.95687011611522,111.18853292851"
+ },
+ {
+  "ID": "LOC488",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pacitan",
+  "Kecamatan": "Kecamatan Ngadirojo",
+  "Desa": "Desa Nogosari",
+  "Koordinat": "-8.18683333333333,111.331674999999"
+ },
+ {
+  "ID": "LOC489",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pacitan",
+  "Kecamatan": "Kecamatan Pacitan",
+  "Desa": "Desa Ponggok",
+  "Koordinat": "-8.13745035496351,111.101711474541"
+ },
+ {
+  "ID": "LOC490",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pacitan",
+  "Kecamatan": "Kecamatan Pringkuku",
+  "Desa": "Desa Taman Sari",
+  "Koordinat": "-8.11864444444444,111.096633333333"
+ },
+ {
+  "ID": "LOC491",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pacitan",
+  "Kecamatan": "Kecamatan Tegalombo",
+  "Desa": "Desa Ngreco",
+  "Koordinat": "-8.08272966912248,111.256965448868"
+ },
+ {
+  "ID": "LOC492",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pamekasan",
+  "Kecamatan": "Kecamatan Batu Mar Mar",
+  "Desa": "Desa Bang Sereh",
+  "Koordinat": "-6.93703243935386,113.475949614933"
+ },
+ {
+  "ID": "LOC493",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pamekasan",
+  "Kecamatan": "Kecamatan Batumarmar",
+  "Desa": "Desa Batubintang",
+  "Koordinat": "-6.92445083052135,113.49458777065"
+ },
+ {
+  "ID": "LOC494",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pamekasan",
+  "Kecamatan": "Kecamatan Kadur",
+  "Desa": "Desa Pamaroh",
+  "Koordinat": "-7.06707942056537,113.526548377692"
+ },
+ {
+  "ID": "LOC495",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pamekasan",
+  "Kecamatan": "Kecamatan Pakong",
+  "Desa": "Desa Klompang Timur",
+  "Koordinat": "-7.0640736204004,113.564762684655"
+ },
+ {
+  "ID": "LOC496",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pamekasan",
+  "Kecamatan": "Kecamatan Palengaan",
+  "Desa": "Desa Palengaan Daya",
+  "Koordinat": "-7.04928994493566,113.425419380645"
+ },
+ {
+  "ID": "LOC497",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pamekasan",
+  "Kecamatan": "Kecamatan Pasean",
+  "Desa": "Desa Sana Dajah",
+  "Koordinat": "-6.94362746087996,113.582211961683"
+ },
+ {
+  "ID": "LOC498",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pamekasan",
+  "Kecamatan": "Kecamatan Pasean",
+  "Desa": "Desa Dempo Barat",
+  "Koordinat": "-6.92275543585385,113.596664051243"
+ },
+ {
+  "ID": "LOC499",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pamekasan",
+  "Kecamatan": "Kecamatan Pasean",
+  "Desa": "Desa Tlonto Raja",
+  "Koordinat": "-6.89385854923951,113.571170605522"
+ },
+ {
+  "ID": "LOC500",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pamekasan",
+  "Kecamatan": "Kecamatan Propo",
+  "Desa": "Desa Pangbatok",
+  "Koordinat": "-7.09633888888888,113.379530555555"
+ },
+ {
+  "ID": "LOC501",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pamekasan",
+  "Kecamatan": "Kecamatan Propo",
+  "Desa": "Desa Ramperang Daya",
+  "Koordinat": "-7.12669332780738,113.438474468518"
+ },
+ {
+  "ID": "LOC502",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pamekasan",
+  "Kecamatan": "Kecamatan Pakong",
+  "Desa": "Desa Bandungan",
+  "Koordinat": "-7.03558227688891,113.544409479212"
+ },
+ {
+  "ID": "LOC503",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pancitan",
+  "Kecamatan": "Kecamatan Ngadirojo",
+  "Desa": "Desa Bodag",
+  "Koordinat": "-8.18373333333333,111.301169444444"
+ },
+ {
+  "ID": "LOC504",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pancitan",
+  "Kecamatan": "Kecamatan Pringkuku",
+  "Desa": "Desa Dadapan",
+  "Koordinat": "-8.21110196343602,111.052623086879"
+ },
+ {
+  "ID": "LOC505",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pasuruan",
+  "Kecamatan": "Kecamatan Grati",
+  "Desa": "Desa Karanglo",
+  "Koordinat": "-7.76956595405256,112.981229864737"
+ },
+ {
+  "ID": "LOC506",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Pasuruan",
+  "Kecamatan": "Kecamatan Kejayan",
+  "Desa": "Desa Kedungpengaron",
+  "Koordinat": "-7.75863869624903,112.853021306536"
+ },
+ {
+  "ID": "LOC507",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Ponogoro",
+  "Kecamatan": "Kecamatan Mlarak",
+  "Desa": "Desa Totokan",
+  "Koordinat": "-7.9099,111.5532"
+ },
+ {
+  "ID": "LOC508",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Ponorogo",
+  "Kecamatan": "Kecamatan Mlarak",
+  "Desa": "Desa Candi",
+  "Koordinat": "-7.91829816132063,111.557453281407"
+ },
+ {
+  "ID": "LOC509",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Ponorogo",
+  "Kecamatan": "Kecamatan Sampung",
+  "Desa": "Desa Sampung",
+  "Koordinat": "-7.79900538615743,111.364304592219"
+ },
+ {
+  "ID": "LOC510",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Ponorogo",
+  "Kecamatan": "Kecamatan Slahung",
+  "Desa": "Desa Ngilo ilo",
+  "Koordinat": "-7.98904880029927,111.377638308391"
+ },
+ {
+  "ID": "LOC511",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Probolinggo",
+  "Kecamatan": "Kecamatan Kuripan",
+  "Desa": "Desa Kedawung",
+  "Koordinat": "-7.88933320895523,113.140865145483"
+ },
+ {
+  "ID": "LOC512",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Probolinggo",
+  "Kecamatan": "Kecamatan Wonomerto",
+  "Desa": "Desa Sumber Kare",
+  "Koordinat": "-7.81061599685435,113.124590271163"
+ },
+ {
+  "ID": "LOC513",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Probolinggo",
+  "Kecamatan": "Kecamatan Wonomerto",
+  "Desa": "Desa SepuhGempol",
+  "Koordinat": "-7.8277227361725,113.157938784655"
+ },
+ {
+  "ID": "LOC514",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Sampang",
+  "Kecamatan": "Kecamatan Banyuates",
+  "Desa": "Desa Montor",
+  "Koordinat": "-6.92789528209106,113.185826421871"
+ },
+ {
+  "ID": "LOC515",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Sampang",
+  "Kecamatan": "Kecamatan Banyuates",
+  "Desa": "Desa Tebanah",
+  "Koordinat": "-6.93167472105527,113.207388491411"
+ },
+ {
+  "ID": "LOC516",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Sampang",
+  "Kecamatan": "Kecamatan Karangpenang",
+  "Desa": "Desa Tlambah",
+  "Koordinat": "-7.03459462689253,113.372499248105"
+ },
+ {
+  "ID": "LOC517",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Sampang",
+  "Kecamatan": "Kecamatan Kedungdung",
+  "Desa": "Desa Banjar Dalam",
+  "Koordinat": "-7.06147222222222,113.195472222222"
+ },
+ {
+  "ID": "LOC518",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Sampang",
+  "Kecamatan": "Kecamatan Sokobana",
+  "Desa": "Desa Sokobana Daya",
+  "Koordinat": "-6.90234576515536,113.412544739068"
+ },
+ {
+  "ID": "LOC519",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Sampang",
+  "Kecamatan": "Kecamatan Tambelang",
+  "Desa": "Desa Birem",
+  "Koordinat": "-6.99768965019405,113.173495684517"
+ },
+ {
+  "ID": "LOC520",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Situbondo",
+  "Kecamatan": "Kecamatan Bungatan",
+  "Desa": "Desa Sumber Tengah",
+  "Koordinat": "-7.75585087852131,113.824927523733"
+ },
+ {
+  "ID": "LOC521",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Situbondo",
+  "Kecamatan": "Kecamatan Sumber Malang",
+  "Desa": "Desa Plalangan",
+  "Koordinat": "-7.81881756498218,113.710790379553"
+ },
+ {
+  "ID": "LOC522",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Sumenep Madura",
+  "Kecamatan": "Kecamatan Dasuk",
+  "Desa": "Desa Kerta Barat",
+  "Koordinat": "-6.895838841172,113.801633116019"
+ },
+ {
+  "ID": "LOC523",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Sumenep Madura",
+  "Kecamatan": "Kecamatan Guluk Guluk",
+  "Desa": "Desa Batu Ampar",
+  "Koordinat": "-7.03326603854764,113.591205996741"
+ },
+ {
+  "ID": "LOC524",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Sumenep",
+  "Kecamatan": "Kecamatan Batang Batang Daya",
+  "Desa": "Desa Batang Batang",
+  "Koordinat": "-6.93875040239597,114.001393650912"
+ },
+ {
+  "ID": "LOC525",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Sumenep",
+  "Kecamatan": "Kecamatan Batang Batang",
+  "Desa": "Desa Nyabakan Barat",
+  "Koordinat": "-6.93719444444444,114.019972222222"
+ },
+ {
+  "ID": "LOC526",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Sumenep",
+  "Kecamatan": "Kecamatan Batu Putih",
+  "Desa": "Desa Aeng Merah",
+  "Koordinat": "-6.94471633986582,113.948351594888"
+ },
+ {
+  "ID": "LOC527",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Sumenep",
+  "Kecamatan": "Kecamatan Batuputih",
+  "Desa": "Desa Larangbarma",
+  "Koordinat": "-6.93694713396576,113.880107306526"
+ },
+ {
+  "ID": "LOC528",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Sumenep",
+  "Kecamatan": "Kecamatan Guluk Guluk",
+  "Desa": "Desa Penaggungan",
+  "Koordinat": "-7.03752038089018,113.675669920019"
+ },
+ {
+  "ID": "LOC529",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Sumenep",
+  "Kecamatan": "Kecamatan Pragaan",
+  "Desa": "Desa Larangan Perreng",
+  "Koordinat": "-7.10576237853261,113.625679728836"
+ },
+ {
+  "ID": "LOC530",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Sumenep",
+  "Kecamatan": "Kecamatan Talango",
+  "Desa": "Desa Padike",
+  "Koordinat": "-7.08516666666666,113.956111111111"
+ },
+ {
+  "ID": "LOC531",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Trenggalek",
+  "Kecamatan": "Kecamatan Dongko",
+  "Desa": "Desa Cakul",
+  "Koordinat": "-8.222748,111.529475"
+ },
+ {
+  "ID": "LOC532",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Trenggalek",
+  "Kecamatan": "Kecamatan Dongko",
+  "Desa": "Desa Petung",
+  "Koordinat": "-8.19489711236191,111.562261654043"
+ },
+ {
+  "ID": "LOC533",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Trenggalek",
+  "Kecamatan": "Kecamatan Durenan",
+  "Desa": "Desa Sumberejo",
+  "Koordinat": "-8.07388729725969,111.803384708393"
+ },
+ {
+  "ID": "LOC534",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Trenggalek",
+  "Kecamatan": "Kecamatan Gandusari",
+  "Desa": "Desa Sukorejo",
+  "Koordinat": "-8.12899558450774,111.685156313491"
+ },
+ {
+  "ID": "LOC535",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Trenggalek",
+  "Kecamatan": "Kecamatan Panggul",
+  "Desa": "Desa Ngrecak",
+  "Koordinat": "-8.24023333333333,111.48575"
+ },
+ {
+  "ID": "LOC536",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Tuban",
+  "Kecamatan": "Kecamatan Badegang",
+  "Desa": "Desa Waktu Bonang",
+  "Koordinat": "-7.88974716248534,111.31059852252"
+ },
+ {
+  "ID": "LOC537",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Tuban",
+  "Kecamatan": "Kecamatan Merakurak",
+  "Desa": "Desa Pongpongan",
+  "Koordinat": "-6.90299214522215,111.938164384908"
+ },
+ {
+  "ID": "LOC538",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Tuban",
+  "Kecamatan": "Kecamatan Montong",
+  "Desa": "Desa Sumurgung",
+  "Koordinat": "-6.97408006590245,111.898121828836"
+ },
+ {
+  "ID": "LOC539",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Tulung Agung",
+  "Kecamatan": "Kecamatan Besuki",
+  "Desa": "Desa Tanggul Turus",
+  "Koordinat": "-8.23707222222222,111.788788888888"
+ },
+ {
+  "ID": "LOC540",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Tulung Agung",
+  "Kecamatan": "Kecamatan Karangrejo",
+  "Desa": "Desa Sukodono",
+  "Koordinat": "-7.99230774669864,111.900915719916"
+ },
+ {
+  "ID": "LOC541",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Tulung Agung",
+  "Kecamatan": "Kecamatan Rejo Tangan",
+  "Desa": "Desa Sumber Agung",
+  "Koordinat": "-8.16133333333333,112.089305555555"
+ },
+ {
+  "ID": "LOC542",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Tulungagung",
+  "Kecamatan": "Kecamatan Bandung",
+  "Desa": "Desa Singgit",
+  "Koordinat": "-8.1532,111.774066666666"
+ },
+ {
+  "ID": "LOC543",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Tulungagung",
+  "Kecamatan": "Kecamatan Campurdarat",
+  "Desa": "Desa Pojok",
+  "Koordinat": "-8.14812168138009,111.912736023738"
+ },
+ {
+  "ID": "LOC544",
+  "Provinsi": "Jawa Timur",
+  "Wilayah": "Kabupaten Lamongan",
+  "Kecamatan": "Kecamatan Ngimbang",
+  "Desa": "Desa Sendangrejo",
+  "Koordinat": "-7.28717771603803,112.218477383771"
+ },
+ {
+  "ID": "LOC545",
+  "Provinsi": "Kalimantan Barat",
+  "Wilayah": "Kabupaten Bengkayang",
+  "Kecamatan": "Kecamatan Bengkayang",
+  "Desa": "Desa Setiabudi",
+  "Koordinat": "-0.822666667,109.4933889"
+ },
+ {
+  "ID": "LOC546",
+  "Provinsi": "Kalimantan Barat",
+  "Wilayah": "Kabupaten Bengkayang",
+  "Kecamatan": "Kecamatan Sungai Raya Kepulauan",
+  "Desa": "Desa Rakma Jaya",
+  "Koordinat": "0.671666667,108.9208333"
+ },
+ {
+  "ID": "LOC547",
+  "Provinsi": "Kalimantan Barat",
+  "Wilayah": "Kabupaten Kayong Utara",
+  "Kecamatan": "Kecamatan Seponti",
+  "Desa": "Desa Seponti Jaya",
+  "Koordinat": "-0.861666667,109.8327778"
+ },
+ {
+  "ID": "LOC548",
+  "Provinsi": "Kalimantan Barat",
+  "Wilayah": "Kabupaten Landak",
+  "Kecamatan": "Kecamatan Mandor",
+  "Desa": "Desa Kasturi",
+  "Koordinat": "0.328333333,109.3097222"
+ },
+ {
+  "ID": "LOC549",
+  "Provinsi": "Kalimantan Barat",
+  "Wilayah": "Kabupaten Mempawah",
+  "Kecamatan": "Kecamatan Sungai Pinyuh",
+  "Desa": "Desa Sungai Bakau Besar Laut",
+  "Koordinat": "0.294553,109.037679"
+ },
+ {
+  "ID": "LOC550",
+  "Provinsi": "Kalimantan Barat",
+  "Wilayah": "Kabupaten Pontianak",
+  "Kecamatan": "Kecamatan Mempawah Timur",
+  "Desa": "Desa Sungai Bakau Kecil",
+  "Koordinat": "0.311644,109.002178"
+ },
+ {
+  "ID": "LOC551",
+  "Provinsi": "Kalimantan Barat",
+  "Wilayah": "Kabupaten Sintang",
+  "Kecamatan": "Kecamatan Binjai Hulu",
+  "Desa": "Desa Dak Jaya",
+  "Koordinat": "0.1775,111.4847222"
+ },
+ {
+  "ID": "LOC552",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kota Banjar Baru",
+  "Kecamatan": "Kecamatan Cempaka",
+  "Desa": "Desa Cempaka",
+  "Koordinat": "-3.49036111111111,114.869805555555"
+ },
+ {
+  "ID": "LOC553",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kota Banjar Baru",
+  "Kecamatan": "Kecamatan Landasan Ulin",
+  "Desa": "Kelurahan Guntung Manggis",
+  "Koordinat": "-3.46681666666666,114.803983333333"
+ },
+ {
+  "ID": "LOC554",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Banjar",
+  "Kecamatan": "Kecamatan Martapura",
+  "Desa": "Desa Cindai Alus",
+  "Koordinat": "-3.45490555555555,114.788069444444"
+ },
+ {
+  "ID": "LOC555",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Banjar",
+  "Kecamatan": "Kecamatan Pengaran",
+  "Desa": "Desa Kerta",
+  "Koordinat": "-3.29602777777777,115.086"
+ },
+ {
+  "ID": "LOC556",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Banjar",
+  "Kecamatan": "Kecamatan Pengaron",
+  "Desa": "Desa Pengaron",
+  "Koordinat": "-3.30205277777777,115.103672222222"
+ },
+ {
+  "ID": "LOC557",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Banjar",
+  "Kecamatan": "Kecamatan Sambung Makmur",
+  "Desa": "Desa Madurejo",
+  "Koordinat": "-3.244897,115.085628"
+ },
+ {
+  "ID": "LOC558",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Banjar",
+  "Kecamatan": "Kecamatan Simpang Empat",
+  "Desa": "Desa Banua Anyar",
+  "Koordinat": "-3.19166666666666,114.951833333333"
+ },
+ {
+  "ID": "LOC559",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Hulu Sungai Utara",
+  "Kecamatan": "Kecamatan Amuntai",
+  "Desa": "Desa Pimping",
+  "Koordinat": "-2.595,115.562777777777"
+ },
+ {
+  "ID": "LOC560",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Hulu Sungai Utara",
+  "Kecamatan": "Kecamatan Sungai Pandan",
+  "Desa": "Desa Pondok Babaris",
+  "Koordinat": "-2.75555555555555,115.211388888888"
+ },
+ {
+  "ID": "LOC561",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kota Banjar Baru",
+  "Kecamatan": "Kecamatan Banjar Baru",
+  "Desa": "Desa Loktabat Utara",
+  "Koordinat": "-3.41833333333333,114.804999999999"
+ },
+ {
+  "ID": "LOC562",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kota Banjarbaru",
+  "Kecamatan": "Kecamatan Landasan Ulin",
+  "Desa": "Kelurahan Guntung Manggis",
+  "Koordinat": "-3.45490555555555,114.788069444444"
+ },
+ {
+  "ID": "LOC563",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Kota Baru",
+  "Kecamatan": "Kecamatan Pulau Laut Tengah",
+  "Desa": "Desa Sungai Pasir",
+  "Koordinat": "-3.64386111111111,116.016722222222"
+ },
+ {
+  "ID": "LOC564",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Kota Baru",
+  "Kecamatan": "Kecamatan Pulau Laut Timur",
+  "Desa": "Desa Tanjung Pengharapan",
+  "Koordinat": "-3.68527777777777,116.301944444444"
+ },
+ {
+  "ID": "LOC565",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Kota Baru",
+  "Kecamatan": "Kecamatan Pulau Laut Utara",
+  "Desa": "Desa Kota Baru Hilir",
+  "Koordinat": "-3.22805555555555,116.238611111111"
+ },
+ {
+  "ID": "LOC566",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Kota Baru",
+  "Kecamatan": "Kecamatan Pulau Tengah",
+  "Desa": "Desa Salino",
+  "Koordinat": "-3.51666666666666,116.041388888888"
+ },
+ {
+  "ID": "LOC567",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Tabalong",
+  "Kecamatan": "Kecamatan Haruai",
+  "Desa": "Desa Hayup",
+  "Koordinat": "-1.97333333333333,115.521944444444"
+ },
+ {
+  "ID": "LOC568",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Tabalong",
+  "Kecamatan": "Kecamatan Muara Uya",
+  "Desa": "Desa Ribang",
+  "Koordinat": "-1.96805555555555,115.546666666666"
+ },
+ {
+  "ID": "LOC569",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Tanah Bumbu",
+  "Kecamatan": "Kecamatan Batulicin",
+  "Desa": "Desa Gunung Tinggi",
+  "Koordinat": "-3.47635,115.9505"
+ },
+ {
+  "ID": "LOC570",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Tanah Laut",
+  "Kecamatan": "Kecamatan Kurau",
+  "Desa": "Desa Handil Negara",
+  "Koordinat": "-3.45490555555555,114.627055555555"
+ },
+ {
+  "ID": "LOC571",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Tanah Laut",
+  "Kecamatan": "Kecamatan Pelaihari",
+  "Desa": "Masjid Syuhada",
+  "Koordinat": "-3.79998333333333,114.764183333333"
+ },
+ {
+  "ID": "LOC572",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Tanah Laut",
+  "Kecamatan": "Kecamatan Tambang Ulang",
+  "Desa": "Desa Tambang Ulang",
+  "Koordinat": "-3.68835833333333,114.728280555555"
+ },
+ {
+  "ID": "LOC573",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kabupaten Tapin",
+  "Kecamatan": "Kecamatan Binuang",
+  "Desa": "Desa Karangan Putih",
+  "Koordinat": "-3.12046491666666,115.075234777777"
+ },
+ {
+  "ID": "LOC574",
+  "Provinsi": "Kalimantan Tengah",
+  "Wilayah": "Kabupaten Katingan",
+  "Kecamatan": "Kecamatan Pulau Malan",
+  "Desa": "Desa Pulau Malan",
+  "Koordinat": "-3.46395540732849,113.307947380828"
+ },
+ {
+  "ID": "LOC575",
+  "Provinsi": "Kalimantan Tengah",
+  "Wilayah": "Kabupaten Katingan",
+  "Kecamatan": "Kecamatan Pulau Malan",
+  "Desa": "Desa Pulau Malan",
+  "Koordinat": "-1.74194444444444,113.359722222222"
+ },
+ {
+  "ID": "LOC576",
+  "Provinsi": "Kalimantan Tengah",
+  "Wilayah": "Kabupaten Katingan",
+  "Kecamatan": "Kecamatan Tasik Payawan",
+  "Desa": "Desa Upt Hiyang Bana",
+  "Koordinat": "-2.11194444444444,113.445277777777"
+ },
+ {
+  "ID": "LOC577",
+  "Provinsi": "Kalimantan Tengah",
+  "Wilayah": "Kabupaten Katingan",
+  "Kecamatan": "Kecamatan Tasik Payawang",
+  "Desa": "Desa Upt Hiyang Bana",
+  "Koordinat": "-2.11758333333333,113.447416666666"
+ },
+ {
+  "ID": "LOC578",
+  "Provinsi": "Kalimantan Tengah",
+  "Wilayah": "Kabupaten Pulang Pisau",
+  "Kecamatan": "Kecamatan Banana Pingan",
+  "Desa": "Desa Pangi",
+  "Koordinat": "-1.56433333333333,113.922916666666"
+ },
+ {
+  "ID": "LOC579",
+  "Provinsi": "Kalimantan Tengah",
+  "Wilayah": "Kabupaten Pulau Pisau",
+  "Kecamatan": "Kecamatan Banama",
+  "Desa": "Desa Bawan",
+  "Koordinat": "-1.615815,113.933388055555"
+ },
+ {
+  "ID": "LOC580",
+  "Provinsi": "Kalimantan Tengah",
+  "Wilayah": "Kabupaten Seruyan",
+  "Kecamatan": "Kecamatan Danau Seluluk",
+  "Desa": "Desa Rungau Raya",
+  "Koordinat": "-2.34388888888888,112.299722222222"
+ },
+ {
+  "ID": "LOC581",
+  "Provinsi": "Kalimantan Tengah",
+  "Wilayah": "Kabupaten Seruyan",
+  "Kecamatan": "Kecamatan Danau Seluluk",
+  "Desa": "Desa Tanjung Paring",
+  "Koordinat": "-2.41027777777777,112.248333333333"
+ },
+ {
+  "ID": "LOC582",
+  "Provinsi": "Kalimantan Tengah",
+  "Wilayah": "Kabupaten Seruyan",
+  "Kecamatan": "Kecamatan Seruyan Raya",
+  "Desa": "Desa Selunuk",
+  "Koordinat": "-2.69333333333333,112.481666666666"
+ },
+ {
+  "ID": "LOC583",
+  "Provinsi": "Kalimantan Tengah",
+  "Wilayah": "Kabupaten Seruyan",
+  "Kecamatan": "Kecamatan Seruyan",
+  "Desa": "Desa Bangkal",
+  "Koordinat": "-2.61131277777777,112.435465583333"
+ },
+ {
+  "ID": "LOC584",
+  "Provinsi": "Kalimantan Tengah",
+  "Wilayah": "Kabupaten Seruyan",
+  "Kecamatan": "Kecamatan Seruyan",
+  "Desa": "Desa Halimaung Jaya",
+  "Koordinat": "-3.25611111111111,112.556"
+ },
+ {
+  "ID": "LOC585",
+  "Provinsi": "Kalimantan Utara",
+  "Wilayah": "Kabupaten Bulungan",
+  "Kecamatan": "Kecamatan Tanjung Palas Timur",
+  "Desa": "Desa Tanjung Palas Timur",
+  "Koordinat": "2.711472222,117.49875"
+ },
+ {
+  "ID": "LOC586",
+  "Provinsi": "Kalimantan Utara",
+  "Wilayah": "Kabupaten Kaltara",
+  "Kecamatan": "Kecamatan Lumbis",
+  "Desa": "Desa Kalampising",
+  "Koordinat": "3.809642,116.737848"
+ },
+ {
+  "ID": "LOC587",
+  "Provinsi": "Kalimantan Utara",
+  "Wilayah": "Kabupaten Kutai Barat",
+  "Kecamatan": "Kecamatan Bongan",
+  "Desa": "Desa Jambuk Makmur",
+  "Koordinat": "2.551916667,117.8556944"
+ },
+ {
+  "ID": "LOC588",
+  "Provinsi": "Kalimantan Utara",
+  "Wilayah": "Kabupaten Malinau",
+  "Kecamatan": "Kecamatan Malinau Selatan",
+  "Desa": "Desa Bila Bekayuk",
+  "Koordinat": "3.245277778,116.5220556"
+ },
+ {
+  "ID": "LOC589",
+  "Provinsi": "Kalimantan Utara",
+  "Wilayah": "Kabupaten Malinau",
+  "Kecamatan": "Kecamatan Malinau Utara",
+  "Desa": "Desa Belayan",
+  "Koordinat": "3.688194444,116.6601389"
+ },
+ {
+  "ID": "LOC590",
+  "Provinsi": "Kalimantan Utara",
+  "Wilayah": "Kabupaten Malinau",
+  "Kecamatan": "Kecamatan Malinau Utara",
+  "Desa": "Desa Seruyung",
+  "Koordinat": "3.69825,116.7227778"
+ },
+ {
+  "ID": "LOC591",
+  "Provinsi": "Kalimantan Utara",
+  "Wilayah": "Kabupaten Nunukan",
+  "Kecamatan": "Kecamatan Sebatik Barat",
+  "Desa": "Desa Binalawan",
+  "Koordinat": "4.10025,117.9166667"
+ },
+ {
+  "ID": "LOC592",
+  "Provinsi": "Kalimantan Barat",
+  "Wilayah": "Kabupaten Benkayang",
+  "Kecamatan": "Kecamatan Seluas",
+  "Desa": "Desa Seluas",
+  "Koordinat": "1.281944444,109.8541667"
+ },
+ {
+  "ID": "LOC593",
+  "Provinsi": "Kalimantan Barat",
+  "Wilayah": "Kabupaten Kubu Jaya",
+  "Kecamatan": "Kecamatan Rasau Jaya",
+  "Desa": "Desa Pematang Tujuh",
+  "Koordinat": "-0.267777778,109.3097222"
+ },
+ {
+  "ID": "LOC594",
+  "Provinsi": "Kalimantan Barat",
+  "Wilayah": "Kabupaten Landak",
+  "Kecamatan": "Kecamatan Jelempo",
+  "Desa": "Desa Tebedak",
+  "Koordinat": "0.372777778,109.9844444"
+ },
+ {
+  "ID": "LOC595",
+  "Provinsi": "Kalimantan Barat",
+  "Wilayah": "Kabupaten Landak",
+  "Kecamatan": "Kecamatan Ngabang",
+  "Desa": "Desa Hilir Kantor",
+  "Koordinat": "0.383249,109.943736"
+ },
+ {
+  "ID": "LOC596",
+  "Provinsi": "Kalimantan Barat",
+  "Wilayah": "Kabupaten Sambas",
+  "Kecamatan": "Kecamatan Selakau",
+  "Desa": "Desa Sungai Daun",
+  "Koordinat": "1.016341,108.984474"
+ },
+ {
+  "ID": "LOC597",
+  "Provinsi": "Kalimantan Barat",
+  "Wilayah": "Kabupaten Sanggau",
+  "Kecamatan": "Kecamatan Sekayam",
+  "Desa": "Desa Sotok",
+  "Koordinat": "0.760539,110.462891"
+ },
+ {
+  "ID": "LOC598",
+  "Provinsi": "Kalimantan Selatan",
+  "Wilayah": "Kota Banjar Baru",
+  "Kecamatan": "Kecamatan Cempaka",
+  "Desa": "Kelurahan Cempaka",
+  "Koordinat": "-3.479871,114.852204"
+ },
+ {
+  "ID": "LOC599",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kota Bandar Lampung",
+  "Kecamatan": "Kecamatan Kemiling",
+  "Desa": "Kelurahan Beringin Raya",
+  "Koordinat": "-5.40936111111111,105.221888888888"
+ },
+ {
+  "ID": "LOC600",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kota Metro",
+  "Kecamatan": "Kecamatan Metro Pusat",
+  "Desa": "Kelurahan Hadimulya Timur",
+  "Koordinat": "-5.094894,105.301353"
+ },
+ {
+  "ID": "LOC601",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kota Metro",
+  "Kecamatan": "Kecamatan Metro Timur",
+  "Desa": "Desa Tejo Agung",
+  "Koordinat": "-5.05052777777777,104.285"
+ },
+ {
+  "ID": "LOC602",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kota Metro",
+  "Kecamatan": "Kecamatan Metro",
+  "Desa": "Kelurahan Sumbersari",
+  "Koordinat": "-5.16944444444444,105.298"
+ },
+ {
+  "ID": "LOC603",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Lampung Barat",
+  "Kecamatan": "Kecamatan Balik Bukit",
+  "Desa": "Desa Padang Cahaya",
+  "Koordinat": "-5.00250833333333,104.030688888888"
+ },
+ {
+  "ID": "LOC604",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Lampung Barat",
+  "Kecamatan": "Kecamatan Sekincau",
+  "Desa": "Desa Kebas",
+  "Koordinat": "-5.03844444444444,104.315861111111"
+ },
+ {
+  "ID": "LOC605",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Lampung Barat",
+  "Kecamatan": "Kecamatan Sekincau",
+  "Desa": "Desa Sekincau",
+  "Koordinat": "-5.04291666666666,104.284555555555"
+ },
+ {
+  "ID": "LOC606",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Lampung Selatan",
+  "Kecamatan": "Kecamatan Kalianda",
+  "Desa": "Desa Agom",
+  "Koordinat": "-5.64563888888888,105.583027777777"
+ },
+ {
+  "ID": "LOC607",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Lampung Selatan",
+  "Kecamatan": "Kecamatan Kalianda",
+  "Desa": "Desa Sukatani",
+  "Koordinat": "-5.66533333333333,105.617166666666"
+ },
+ {
+  "ID": "LOC608",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Lampung Selatan",
+  "Kecamatan": "Kecamatan Kalianda",
+  "Desa": "Kelurahan Tajimalela",
+  "Koordinat": "-5.68675,105.619783333333"
+ },
+ {
+  "ID": "LOC609",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Lampung Selatan",
+  "Kecamatan": "Kecamatan Natar",
+  "Desa": "Desa Merak Batin",
+  "Koordinat": "-5.30944444444444,105.194166666666"
+ },
+ {
+  "ID": "LOC610",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Lampung Tengah",
+  "Kecamatan": "Kecamatan Punggur",
+  "Desa": "Desa Toto Katon",
+  "Koordinat": "-5.31666666666666,105.301111111111"
+ },
+ {
+  "ID": "LOC611",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Lampung Tengah",
+  "Kecamatan": "Kecamatan Seputtih Banyak",
+  "Desa": "Desa Tanjung Harapan",
+  "Koordinat": "-4.84627499999999,105.446830555555"
+ },
+ {
+  "ID": "LOC612",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Lampung Tengah",
+  "Kecamatan": "Kecamatan Terbanggi Besar",
+  "Desa": "Desa Yukum Jaya",
+  "Koordinat": "-4.90980555555555,105.218166666666"
+ },
+ {
+  "ID": "LOC613",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Lampung Timur",
+  "Kecamatan": "Kecamatan Sukadana",
+  "Desa": "Desa Bumi Ayu",
+  "Koordinat": "-5.01888888888888,105.479444444444"
+ },
+ {
+  "ID": "LOC614",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Pesawaran",
+  "Kecamatan": "Kecamatan Gedung Tataan",
+  "Desa": "Desa Way Layap",
+  "Koordinat": "-5.403329,105.058827"
+ },
+ {
+  "ID": "LOC615",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Pesawaran",
+  "Kecamatan": "Kecamatan Negeri Katon",
+  "Desa": "Desa Negeri Katon",
+  "Koordinat": "-5.325921,105.105872"
+ },
+ {
+  "ID": "LOC616",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Pesawaran",
+  "Kecamatan": "Kecamatan Way Lima",
+  "Desa": "Desa Padang Manis",
+  "Koordinat": "-5.41677777777777,105.051444444444"
+ },
+ {
+  "ID": "LOC617",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Tanggamus",
+  "Kecamatan": "Kecamatan Limau",
+  "Desa": "Desa Padang Ratu",
+  "Koordinat": "-5.60047222222222,104.805988888888"
+ },
+ {
+  "ID": "LOC618",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Tanggamus",
+  "Kecamatan": "Kecamatan Limau",
+  "Desa": "Desa Kuripan",
+  "Koordinat": "-5.613608,104.809577"
+ },
+ {
+  "ID": "LOC619",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Tanggamus",
+  "Kecamatan": "Kecamatan Pugung",
+  "Desa": "Desa Banjar Agung Udik",
+  "Koordinat": "-5.40999999999999,104.821694444444"
+ },
+ {
+  "ID": "LOC620",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Tulang Bawang",
+  "Kecamatan": "Kecamatan Banjar Margo",
+  "Desa": "Desa Penawar Jaya",
+  "Koordinat": "-4.25183333333333,105.244888888888"
+ },
+ {
+  "ID": "LOC621",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Tulang Bawang",
+  "Kecamatan": "Kecamatan Banjar Margo",
+  "Desa": "Desa Agung Dalam",
+  "Koordinat": "-4.27358333333333,105.281027777777"
+ },
+ {
+  "ID": "LOC622",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Way Kanan",
+  "Kecamatan": "Kecamatan Negara Batik",
+  "Desa": "Desa Setia Negara",
+  "Koordinat": "-4.42286111111111,104.801638888888"
+ },
+ {
+  "ID": "LOC623",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kabupaten Waykanan",
+  "Kecamatan": "Kecamatan BuayBanuga",
+  "Desa": "Desa Bumi Harjo",
+  "Koordinat": "-4.24733055555555,104.581736111111"
+ },
+ {
+  "ID": "LOC624",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kota Bandar Lampung",
+  "Kecamatan": "Kecamatan Batu",
+  "Desa": "Desa Kegeringan",
+  "Koordinat": "-5.01027777777777,104.159722222222"
+ },
+ {
+  "ID": "LOC625",
+  "Provinsi": "Lampung",
+  "Wilayah": "Kota Bandar Lampung",
+  "Kecamatan": "Kecamatan Kedaton",
+  "Desa": "Kelurahan Sukamenanti",
+  "Koordinat": "-5.39155555555555,105.25375"
+ },
+ {
+  "ID": "LOC626",
+  "Provinsi": "Maluku",
+  "Wilayah": "Kabupaten Seram Bagian Barat",
+  "Kecamatan": "Kecamatan Seram Barat",
+  "Desa": "Desa Morekau",
+  "Koordinat": "-3.022359,128.298578"
+ },
+ {
+  "ID": "LOC627",
+  "Provinsi": "Maluku Utara",
+  "Wilayah": "Kota Tidore Kepulauan",
+  "Kecamatan": "Kecamatan Tidore Kota",
+  "Desa": "Kelurahan Topo",
+  "Koordinat": "0.651944444444444,127.4275"
+ },
+ {
+  "ID": "LOC628",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Bima",
+  "Kecamatan": "Kecamatan Bolo",
+  "Desa": "Desa Sondosia",
+  "Koordinat": "-8.5175,118.6525"
+ },
+ {
+  "ID": "LOC629",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Bima",
+  "Kecamatan": "Kecamatan Palibelo",
+  "Desa": "Desa Panda",
+  "Koordinat": "-8.512758,118.703391"
+ },
+ {
+  "ID": "LOC630",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Bima",
+  "Kecamatan": "Kecamatan Soromandi",
+  "Desa": "Desa Bajo",
+  "Koordinat": "-8.45419444444444,118.681277777777"
+ },
+ {
+  "ID": "LOC631",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Bima",
+  "Kecamatan": "Kecamatan Wera",
+  "Desa": "Desa Oitui",
+  "Koordinat": "-8.3325,118.974972222222"
+ },
+ {
+  "ID": "LOC632",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Dompu",
+  "Kecamatan": "Kecamatan Dompu",
+  "Desa": "Desa Kareke",
+  "Koordinat": "-8.54416666666666,118.484638888888"
+ },
+ {
+  "ID": "LOC633",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Dompu",
+  "Kecamatan": "Kecamatan Dompu",
+  "Desa": "Desa Sorisakolo",
+  "Koordinat": "-8.50027777777777,118.454166666666"
+ },
+ {
+  "ID": "LOC634",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Dompu",
+  "Kecamatan": "Kecamatan Hu'u",
+  "Desa": "Desa Jala",
+  "Koordinat": "-8.72583333333333,118.428333333333"
+ },
+ {
+  "ID": "LOC635",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Dompu",
+  "Kecamatan": "Kecamatan Hu'u",
+  "Desa": "Desa Rasabou",
+  "Koordinat": "-8.73687,118.441769"
+ },
+ {
+  "ID": "LOC636",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Dompu",
+  "Kecamatan": "Kecamatan Pajo",
+  "Desa": "Desa Woko",
+  "Koordinat": "-8.66615,118.483865"
+ },
+ {
+  "ID": "LOC637",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Dompu",
+  "Kecamatan": "Kecamatan Woja",
+  "Desa": "Desa Kandai 2",
+  "Koordinat": "-8.54880555555555,118.433888888888"
+ },
+ {
+  "ID": "LOC638",
+  "Provinsi": "NTB",
+  "Wilayah": "Kota Bima",
+  "Kecamatan": "Kecamatan Mpunda",
+  "Desa": "Desa Monggonao",
+  "Koordinat": "-8.61833333333333,118.89"
+ },
+ {
+  "ID": "LOC639",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Barat",
+  "Kecamatan": "Kecamatan Gerung",
+  "Desa": "Desa Banyu Urip",
+  "Koordinat": "-8.710369,116.143193",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC640",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Barat",
+  "Kecamatan": "Kecamatan Kuripan",
+  "Desa": "Desa Kuripan Selatan",
+  "Koordinat": "-8.682303,116.16852",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC641",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Barat",
+  "Kecamatan": "Kecamatan Kuripan",
+  "Desa": "Kelurahan Giri Sesak",
+  "Koordinat": "-8.70818,116.175976",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC642",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Barat",
+  "Kecamatan": "Kecamatan Lembar",
+  "Desa": "Desa Jembatan Gantung",
+  "Koordinat": "-8.699444444,118.1038889",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC643",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Barat",
+  "Kecamatan": "Kecamatan Lembar",
+  "Desa": "Desa Jemabatan Kembar Timur",
+  "Koordinat": "-8.703966,116.09238",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC644",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Tengah",
+  "Kecamatan": "Kecamatan Praya Barat Daya",
+  "Desa": "Desa Plambik",
+  "Koordinat": "-8.74438,116.182165",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC645",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Tengah",
+  "Kecamatan": "Kecamatan Praya Barat",
+  "Desa": "Desa Mangkung",
+  "Koordinat": "-8.803146,116.225633"
+ },
+ {
+  "ID": "LOC646",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Tengah",
+  "Kecamatan": "Kecamatan Praya",
+  "Desa": "Desa Aikmual",
+  "Koordinat": "-8.6627,116.285538",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC647",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Tengah",
+  "Kecamatan": "Kecamatan Pucut",
+  "Desa": "Desa Pengembur",
+  "Koordinat": "-8.807147,116.261943",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC648",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Tengah",
+  "Kecamatan": "Kecamatan Pujut",
+  "Desa": "Desa Sukadana",
+  "Koordinat": "-8.826135,116.311228",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC649",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Timur",
+  "Kecamatan": "Kecamatan Keruak",
+  "Desa": "Desa Senyiur",
+  "Koordinat": "-8.752332,116.467354",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC650",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Timur",
+  "Kecamatan": "Kecamatan Pringgabaya",
+  "Desa": "Desa Apitaik",
+  "Koordinat": "-8.57239,116.606916",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC651",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Timur",
+  "Kecamatan": "Kecamatan Pringgasela",
+  "Desa": "Desa Jurit",
+  "Koordinat": "-8.585838,116.454289",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC652",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Timur",
+  "Kecamatan": "Kecamatan Sakra Timur",
+  "Desa": "Desa Gereneng Timur",
+  "Koordinat": "-8.69033,116.53269",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC653",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Timur",
+  "Kecamatan": "Kecamatan Sakra",
+  "Desa": "Desa Sakra Selatan",
+  "Koordinat": "-8.69533,116.487558",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC654",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Timur",
+  "Kecamatan": "Kecamatan Selong",
+  "Desa": "Desa Kelayu Utara",
+  "Koordinat": "-8.65568,116.553907",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC655",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Timur",
+  "Kecamatan": "Kecamatan Sikur",
+  "Desa": "Desa Darma Sari",
+  "Koordinat": "-8.663602,116.454562",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC656",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Timur",
+  "Kecamatan": "Kecamatan Terara",
+  "Desa": "Desa Santong",
+  "Koordinat": "-8.678731,116.425203",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC657",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Lombok Utara",
+  "Kecamatan": "Kecamatan Gangga",
+  "Desa": "Desa Bentek",
+  "Koordinat": "-8.372827,116.182016",
+  "Data Sumur": "Klik disini"
+ },
+ {
+  "ID": "LOC658",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Sumba Barat",
+  "Kecamatan": "Kecamatan Taliwang",
+  "Desa": "Desa Labuan Kertasari",
+  "Koordinat": "-8.71055555555555,116.786944444444"
+ },
+ {
+  "ID": "LOC659",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Sumbawa Barat",
+  "Kecamatan": "Kecamatan Poto Tano",
+  "Desa": "Desa Kokarlian",
+  "Koordinat": "-8.55312684741108,116.873525202159"
+ },
+ {
+  "ID": "LOC660",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Sumbawa Barat",
+  "Kecamatan": "Kecamatan Seteluk",
+  "Desa": "Desa Klanir",
+  "Koordinat": "-8.69694444444444,116.825277777777"
+ },
+ {
+  "ID": "LOC661",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Sumbawa Barat",
+  "Kecamatan": "Kecamatan Taliwang",
+  "Desa": "Desa Batu Putih",
+  "Koordinat": "-8.717952,116.824803"
+ },
+ {
+  "ID": "LOC662",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Sumbawa",
+  "Kecamatan": "Kecamatan Empang",
+  "Desa": "Desa Lamenta",
+  "Koordinat": "-8.782931,117.990441"
+ },
+ {
+  "ID": "LOC663",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Sumbawa",
+  "Kecamatan": "Kecamatan Lopok",
+  "Desa": "Desa Lapok Beru",
+  "Koordinat": "-8.61519444444444,117.544694444444"
+ },
+ {
+  "ID": "LOC664",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Sumbawa",
+  "Kecamatan": "Kecamatan Mayohilir",
+  "Desa": "Desa Ngeru",
+  "Koordinat": "-8.51086,117.5047"
+ },
+ {
+  "ID": "LOC665",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Sumbawa",
+  "Kecamatan": "Kecamatan Moyohulu",
+  "Desa": "Desa Batu Bulan",
+  "Koordinat": "-8.59222222222222,117.467777777777"
+ },
+ {
+  "ID": "LOC666",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Sumbawa",
+  "Kecamatan": "Kecamatan Plampang",
+  "Desa": "Desa Prode",
+  "Koordinat": "-8.811546033898292, 117.80676378057335"
+ },
+ {
+  "ID": "LOC667",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Sumbawa",
+  "Kecamatan": "Kecamatan Ropang",
+  "Desa": "Desa Lantung",
+  "Koordinat": "-8.757211,117.52427"
+ },
+ {
+  "ID": "LOC668",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Sumbawa",
+  "Kecamatan": "Kecamatan Tarano",
+  "Desa": "Desa Bantulanteh",
+  "Koordinat": "-8.75141666666666,118.06305555555"
+ },
+ {
+  "ID": "LOC669",
+  "Provinsi": "NTB",
+  "Wilayah": "Kabupaten Tengah",
+  "Kecamatan": "Kecamatan Praya",
+  "Desa": "Desa Pandan Indah",
+  "Koordinat": "-8.789071,116.198789"
+ },
+ {
+  "ID": "LOC670",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Belu",
+  "Kecamatan": "Kecamatan Kakuluk Mesak",
+  "Desa": "Desa Dualaus",
+  "Koordinat": "-9.018425,124.836033333333"
+ },
+ {
+  "ID": "LOC671",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Belu",
+  "Kecamatan": "Kecamatan Raihat",
+  "Desa": "Desa Asumanu",
+  "Koordinat": "-9.03063,125.0912"
+ },
+ {
+  "ID": "LOC672",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Belu",
+  "Kecamatan": "Kecamatan Tasifeto Barat",
+  "Desa": "Desa Naitimu",
+  "Koordinat": "-9.28333333333333,124.884894444444"
+ },
+ {
+  "ID": "LOC673",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Bima",
+  "Kecamatan": "Kecamatan Belo",
+  "Desa": "Desa Runggu",
+  "Koordinat": "-9.56630555555555,119.446597222222"
+ },
+ {
+  "ID": "LOC674",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Ende",
+  "Kecamatan": "Kecamatan Ende Tengah",
+  "Desa": "Desa Onekora",
+  "Koordinat": "-8.83648,121.6505"
+ },
+ {
+  "ID": "LOC675",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Ende",
+  "Kecamatan": "Kecamatan Ende Utara",
+  "Desa": "Desa Kota Ratu",
+  "Koordinat": "-8.83836,121.6446"
+ },
+ {
+  "ID": "LOC676",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Ende",
+  "Kecamatan": "Kecamatan Ende Utara",
+  "Desa": "Desa Roworena Barat",
+  "Koordinat": "-8.8265,121.645361111111"
+ },
+ {
+  "ID": "LOC677",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Ende",
+  "Kecamatan": "Kecamatan Kota Baru",
+  "Desa": "Desa Lokalande",
+  "Koordinat": "-8.526566,121.972235"
+ },
+ {
+  "ID": "LOC678",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Flores Timur",
+  "Kecamatan": "Kecamatan Titehena",
+  "Desa": "Desa Watowara",
+  "Koordinat": "-8.368858,122.757083"
+ },
+ {
+  "ID": "LOC679",
+  "Provinsi": "NTT",
+  "Wilayah": "Kota Kupang",
+  "Kecamatan": "Kecamatan Alak",
+  "Desa": "Desa Batu Pelat",
+  "Koordinat": "-10.199127,123.580012"
+ },
+ {
+  "ID": "LOC680",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Kupang",
+  "Kecamatan": "Kecamatan Amfoang Timur",
+  "Desa": "Desa Nunuanah",
+  "Koordinat": "-9.412427,123.943952"
+ },
+ {
+  "ID": "LOC681",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Kupang",
+  "Kecamatan": "Kecamatan Fatuleu",
+  "Desa": "Desa Silulu",
+  "Koordinat": "-10.043,123.9906"
+ },
+ {
+  "ID": "LOC682",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Kupang",
+  "Kecamatan": "Kecamatan Kupang Tengah",
+  "Desa": "Desa Oelnasi",
+  "Koordinat": "-10.17149,123.727655"
+ },
+ {
+  "ID": "LOC683",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Larantuka",
+  "Kecamatan": "Kecamatan Larantuka",
+  "Desa": "Desa Lebaho",
+  "Koordinat": "-8.31185264939881,122.994437847877"
+ },
+ {
+  "ID": "LOC684",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Malaka",
+  "Kecamatan": "Kecamatan Laen Manen",
+  "Desa": "Desa Meotroi",
+  "Koordinat": "-9.35180277777777,124.816674999999"
+ },
+ {
+  "ID": "LOC685",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Manggarai Barat",
+  "Kecamatan": "Kecamatan Komodo",
+  "Desa": "Desa Compang Lunggu",
+  "Koordinat": "-8.627955,119.858377"
+ },
+ {
+  "ID": "LOC686",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Manggarai Barat",
+  "Kecamatan": "Kecamatan Komodo",
+  "Desa": "Desa Wae Kelambu",
+  "Koordinat": "-8.48579444444444,119.884325"
+ },
+ {
+  "ID": "LOC687",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Manggarai Barat",
+  "Kecamatan": "Kecamatan Sano Nggoang",
+  "Desa": "Desa Golo Mbu",
+  "Koordinat": "-8.65018611111111,120.000072222222"
+ },
+ {
+  "ID": "LOC688",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Manggarai Timur",
+  "Kecamatan": "Kecamatan Kota Komba",
+  "Desa": "Desa Bamo",
+  "Koordinat": "-8.849786,120.698969"
+ },
+ {
+  "ID": "LOC689",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Manggarai Timur",
+  "Kecamatan": "Kecamatan Lama Leda",
+  "Desa": "Desa Lamba Keli (Tungku Lawar)",
+  "Koordinat": "-8.458705,120.567843"
+ },
+ {
+  "ID": "LOC690",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Manggarai Timur",
+  "Kecamatan": "Kecamatan Lambaleda",
+  "Desa": "Desa Tengkuleda",
+  "Koordinat": "-8.45586111111111,120.567833333333"
+ },
+ {
+  "ID": "LOC691",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Manggarai",
+  "Kecamatan": "Kecamatan Cancar",
+  "Desa": "Desa Bulan",
+  "Koordinat": "-8.62298,120.3664"
+ },
+ {
+  "ID": "LOC692",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Manggarai",
+  "Kecamatan": "Kecamatan Cibal",
+  "Desa": "Desa Pagal",
+  "Koordinat": "-8.49398,120.5312"
+ },
+ {
+  "ID": "LOC693",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Manggarai",
+  "Kecamatan": "Kecamatan Cibal",
+  "Desa": "Desa Nenu",
+  "Koordinat": "-8.51989,120.489717"
+ },
+ {
+  "ID": "LOC694",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Ngada",
+  "Kecamatan": "Kecamatan Aimere",
+  "Desa": "Desa Waesae",
+  "Koordinat": "-8.83422222222222,120.853333333333"
+ },
+ {
+  "ID": "LOC695",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Sikka",
+  "Kecamatan": "Kecamatan Alok",
+  "Desa": "Desa Madawat",
+  "Koordinat": "-8.624816,122.210804"
+ },
+ {
+  "ID": "LOC696",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Sikka",
+  "Kecamatan": "Kecamatan Kewapante",
+  "Desa": "Desa Kopong",
+  "Koordinat": "-8.662079,122.291668"
+ },
+ {
+  "ID": "LOC697",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Sumba Barat Daya",
+  "Kecamatan": "Kecamatan Loura",
+  "Desa": "Desa Ramadana",
+  "Koordinat": "-9.39833333333333,119.274472222222"
+ },
+ {
+  "ID": "LOC698",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Sumba Barat Daya",
+  "Kecamatan": "Kecamatan Wewewa Tengah",
+  "Desa": "Desa Tanggaba",
+  "Koordinat": "-9.50775,119.310499999999"
+ },
+ {
+  "ID": "LOC699",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Sumba Barat",
+  "Kecamatan": "Kecamatan Loli",
+  "Desa": "Desa Doka Kaka",
+  "Koordinat": "-9.56630555555555,119.446597222222"
+ },
+ {
+  "ID": "LOC700",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Sumba Barat",
+  "Kecamatan": "Kecamatan Wewewa Timur",
+  "Desa": "Desa Weelima",
+  "Koordinat": "-9.56216522222222,119.386748"
+ },
+ {
+  "ID": "LOC701",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Sumba Tengah",
+  "Kecamatan": "Kecamatan Katikutuna selatan",
+  "Desa": "Desa Waimanu",
+  "Koordinat": "-9.61527777777777,119.669444444444"
+ },
+ {
+  "ID": "LOC702",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Timor Tengah Selatan",
+  "Kecamatan": "Kecamatan Amanuban",
+  "Desa": "Desa Tumu",
+  "Koordinat": "-9.857575,124.489976"
+ },
+ {
+  "ID": "LOC703",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Timor Tengah Selatan",
+  "Kecamatan": "Kecamatan Amnuban Selatan",
+  "Desa": "Desa Pollo",
+  "Koordinat": "-10.06848,124.229088"
+ },
+ {
+  "ID": "LOC704",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Timor Tengah Selatan",
+  "Kecamatan": "Kecamatan Batu Putih",
+  "Desa": "Desa Benlutu",
+  "Koordinat": "-9.89698,124.21136"
+ },
+ {
+  "ID": "LOC705",
+  "Provinsi": "NTT",
+  "Wilayah": "Kabupaten Timor Tengah Selatan",
+  "Kecamatan": "Kecamatan Batu Putih",
+  "Desa": "Desa Oehela",
+  "Koordinat": "-9.93988888888889,124.1985"
+ },
+ {
+  "ID": "LOC706",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Bengkalis",
+  "Kecamatan": "Kecamatan Siak Kecil",
+  "Desa": "Desa Sadar Jaya",
+  "Koordinat": "1.146902,102.032718"
+ },
+ {
+  "ID": "LOC707",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Indragiri Hilir",
+  "Kecamatan": "Kecamatan Batang Tuaka",
+  "Desa": "Desa Sungai Luar",
+  "Koordinat": "-0.265486111111111,103.185433333333"
+ },
+ {
+  "ID": "LOC708",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Indragiri Hilir",
+  "Kecamatan": "Kecamatan Enok",
+  "Desa": "Desa Pusaran",
+  "Koordinat": "-0.538563888888888,103.164722222222"
+ },
+ {
+  "ID": "LOC709",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Indragiri Hilir",
+  "Kecamatan": "Kecamatan Kemuning",
+  "Desa": "Desa Air Balui",
+  "Koordinat": "-0.91721,102.77249"
+ },
+ {
+  "ID": "LOC710",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Indragiri Hilir",
+  "Kecamatan": "Kecamatan Kemuning",
+  "Desa": "Desa Tukjimun",
+  "Koordinat": "-0.925138888888888,102.776749999999"
+ },
+ {
+  "ID": "LOC711",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Indragiri Hilir",
+  "Kecamatan": "Kecamatan Kerintang",
+  "Desa": "Desa Pengalihan",
+  "Koordinat": "-0.64488,102.75255"
+ },
+ {
+  "ID": "LOC712",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Indragiri Hilir",
+  "Kecamatan": "Kecamatan Tempuling",
+  "Desa": "Desa Mumpa",
+  "Koordinat": "-0.502221942228317,102.918617196928"
+ },
+ {
+  "ID": "LOC713",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Indragiri Hulu",
+  "Kecamatan": "Kecamatan Batang Cenaku",
+  "Desa": "Desa Aurcina",
+  "Koordinat": "-0.682619107038204,102.280543905573"
+ },
+ {
+  "ID": "LOC714",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Indragiri Hulu",
+  "Kecamatan": "Kecamatan Batang Cenaku",
+  "Desa": "Desa Pejangki",
+  "Koordinat": "-0.640361111111111,102.293944444444"
+ },
+ {
+  "ID": "LOC715",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Indragiri Hulu",
+  "Kecamatan": "Kecamatan Kelayang",
+  "Desa": "Desa Dusun Tua",
+  "Koordinat": "-0.4903,102.16993"
+ },
+ {
+  "ID": "LOC716",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Kampar",
+  "Kecamatan": "Kecamatan Bengkinang",
+  "Desa": "Desa Lenggini",
+  "Koordinat": "0.340027,101.018545"
+ },
+ {
+  "ID": "LOC717",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Kampar",
+  "Kecamatan": "Kecamatan Kampar Timur",
+  "Desa": "Desa Kampar",
+  "Koordinat": "0.35091,101.18963"
+ },
+ {
+  "ID": "LOC718",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Kuantan Singingi",
+  "Kecamatan": "Kecamatan Pangean",
+  "Desa": "Desa Pulau Deras",
+  "Koordinat": "-0.441,101.710138888888"
+ },
+ {
+  "ID": "LOC719",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Kuantan Singingi",
+  "Kecamatan": "Kecamatan Sentajo Raya",
+  "Desa": "Desa Koto Sentajo",
+  "Koordinat": "-0.49327,101.60061"
+ },
+ {
+  "ID": "LOC720",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Kuatan Singingi",
+  "Kecamatan": "Kecamatan Pangean",
+  "Desa": "Desa Pulau Deras",
+  "Koordinat": "-0.441,101.710138888888"
+ },
+ {
+  "ID": "LOC721",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Pelalawan",
+  "Kecamatan": "Kecamatan Bandar Sei Kijang",
+  "Desa": "Desa Muda Setia",
+  "Koordinat": "0.43666,101.621"
+ },
+ {
+  "ID": "LOC722",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Pelalawan",
+  "Kecamatan": "Kecamatan Bandar Seikijang",
+  "Desa": "Desa Sekijang",
+  "Koordinat": "0.426972734088785,101.647787846974"
+ },
+ {
+  "ID": "LOC723",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Pelawan",
+  "Kecamatan": "Kecamatan Pangkalan Kerinci",
+  "Desa": "Desa Pangkalang Kerinci Kota",
+  "Koordinat": "0.415666666666666,101.854055555555"
+ },
+ {
+  "ID": "LOC724",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Rokan Hulu",
+  "Kecamatan": "Kecamatan Bangko Permata",
+  "Desa": "Desa Bangko",
+  "Koordinat": "1.71120616501993,100.807427838362"
+ },
+ {
+  "ID": "LOC725",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Rokan Hulu",
+  "Kecamatan": "Kecamatan Tambusai Utara",
+  "Desa": "Desa Mahato",
+  "Koordinat": "1.349791,100.443797"
+ },
+ {
+  "ID": "LOC726",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Rokan Hulu",
+  "Kecamatan": "Kecamatan Tambusai Utara",
+  "Desa": "Desa Tambusai Utara",
+  "Koordinat": "1.25021,100.367774"
+ },
+ {
+  "ID": "LOC727",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Siak",
+  "Kecamatan": "Kecamatan Koto Gasib",
+  "Desa": "Desa Teluk Rimba",
+  "Koordinat": "0.78402,101.72278"
+ },
+ {
+  "ID": "LOC728",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Siak",
+  "Kecamatan": "Kecamatan Siak",
+  "Desa": "Desa Rawang Air Putih",
+  "Koordinat": "0.808499,101.998415"
+ },
+ {
+  "ID": "LOC729",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Siak",
+  "Kecamatan": "Kecamatan Siak",
+  "Desa": "Desa Merempan Hulu",
+  "Koordinat": "0.802055555555555,101.924722222222"
+ },
+ {
+  "ID": "LOC730",
+  "Provinsi": "Riau",
+  "Wilayah": "Kabupaten Siak",
+  "Kecamatan": "Kecamatan Tualang",
+  "Desa": "Desa Tualang Timur",
+  "Koordinat": "0.60633,101.64866"
+ },
+ {
+  "ID": "LOC731",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Bantaeng",
+  "Kecamatan": "Kecamatan Pajukulang",
+  "Desa": "Desa Nipa Nipa",
+  "Koordinat": "-5.53418254730012,120.032474433664"
+ },
+ {
+  "ID": "LOC732",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Pinrang",
+  "Kecamatan": "Kecamatan Patampanua",
+  "Desa": "Desa PadangLoang",
+  "Koordinat": "-3.74856453157573,119.75131925068"
+ },
+ {
+  "ID": "LOC733",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Majene",
+  "Kecamatan": "Kecamatan Banggae Timur",
+  "Desa": "Desa Tande",
+  "Koordinat": "-3.509578,118.97649"
+ },
+ {
+  "ID": "LOC734",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Majene",
+  "Kecamatan": "Kecamatan Banggae Timur",
+  "Desa": "Kelurahan Lembang",
+  "Koordinat": "-3.544342,118.985869"
+ },
+ {
+  "ID": "LOC735",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Majene",
+  "Kecamatan": "Kecamatan Banggae",
+  "Desa": "Desa Pangaliali",
+  "Koordinat": "-3.54438888888888,118.957555555555"
+ },
+ {
+  "ID": "LOC736",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Mamasa",
+  "Kecamatan": "Kecamatan Messawa",
+  "Desa": "Kelurahan Messawa",
+  "Koordinat": "-3.26154232176369,119.345483181366"
+ },
+ {
+  "ID": "LOC737",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Mamjuju",
+  "Kecamatan": "Kecamatan Sampaga",
+  "Desa": "Desa Bunde",
+  "Koordinat": "-2.33953806055931,119.174773125543"
+ },
+ {
+  "ID": "LOC738",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Mamuju Utara",
+  "Kecamatan": "Kecamatan Sarjo",
+  "Desa": "Desa Sarude",
+  "Koordinat": "-0.872388888888888,119.562833333333"
+ },
+ {
+  "ID": "LOC739",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Mamuju Utara",
+  "Kecamatan": "Kecamatan Sarudu",
+  "Desa": "Desa Bulumario",
+  "Koordinat": "-1.68102777777777,119.337222222222"
+ },
+ {
+  "ID": "LOC740",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Mamuju Utara",
+  "Kecamatan": "Kecamatan Sarudu",
+  "Desa": "Desa Doda",
+  "Koordinat": "-1.64167651198898,119.306173110196"
+ },
+ {
+  "ID": "LOC741",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Mamuju Utara",
+  "Kecamatan": "Kecamatan Tikke Raya",
+  "Desa": "Desa Jengeng Raya",
+  "Koordinat": "-1.351139,119.369944"
+ },
+ {
+  "ID": "LOC742",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Mamuju Utara",
+  "Kecamatan": "Kecamatan Tikke Raya",
+  "Desa": "Desa Pajalele",
+  "Koordinat": "-1.32722222222222,119.379277777777"
+ },
+ {
+  "ID": "LOC743",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Mamuju",
+  "Kecamatan": "Kecamatan Kaluku",
+  "Desa": "Desa Beru-Beru",
+  "Koordinat": "-2.51483333333333,119.052166666666"
+ },
+ {
+  "ID": "LOC744",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Mamuju",
+  "Kecamatan": "Kecamatan Kaluku",
+  "Desa": "Desa Bebanga",
+  "Koordinat": "-2.618694,119.003"
+ },
+ {
+  "ID": "LOC745",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Mamuju",
+  "Kecamatan": "Kecamatan Pangale",
+  "Desa": "Desa Lamba-Lamba",
+  "Koordinat": "-2.22332468637688,119.152356064165"
+ },
+ {
+  "ID": "LOC746",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Manjene",
+  "Kecamatan": "Kecamatan Banggae Timur",
+  "Desa": "Desa Tande Timur",
+  "Koordinat": "-3.52578,118.999658"
+ },
+ {
+  "ID": "LOC747",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Polewali Mandar",
+  "Kecamatan": "Kecamatan Campalagian",
+  "Desa": "Desa Gattungan",
+  "Koordinat": "-3.42816666666666,119.132138888888"
+ },
+ {
+  "ID": "LOC748",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Polewali Mandar",
+  "Kecamatan": "Kecamatan Campalagian",
+  "Desa": "Desa Padang Timur",
+  "Koordinat": "-3.45755555555555,119.113999999999"
+ },
+ {
+  "ID": "LOC749",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Polewali Mandar",
+  "Kecamatan": "Kecamatan Luyo",
+  "Desa": "Desa Batupanga Daala",
+  "Koordinat": "-3.323,119.112194"
+ },
+ {
+  "ID": "LOC750",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Polewali-Mandar",
+  "Kecamatan": "Kecamatan Luyo",
+  "Desa": "Desa Tenggelang",
+  "Koordinat": "-3.38583333333333,119.129166666666"
+ },
+ {
+  "ID": "LOC751",
+  "Provinsi": "Sulawesi Barat",
+  "Wilayah": "Kabupaten Poliwali Mandar",
+  "Kecamatan": "Kecamatan Tapango",
+  "Desa": "Desa Rappang",
+  "Koordinat": "-3.35211030324664,119.202294525547"
+ },
+ {
+  "ID": "LOC752",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Bamu",
+  "Kecamatan": "Kecamatan Taneteriaja",
+  "Desa": "Desa Lempang",
+  "Koordinat": "-4.4924650293469,119.645436484439"
+ },
+ {
+  "ID": "LOC753",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Bantaeng",
+  "Kecamatan": "Kecamatan Pajukukang",
+  "Desa": "Desa Borong Loe",
+  "Koordinat": "-5.55313888888888,120.056055555555"
+ },
+ {
+  "ID": "LOC754",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Bone",
+  "Kecamatan": "Kecamatan Dua Boncoe",
+  "Desa": "Melle",
+  "Koordinat": "-4.30252777777777,120.222805555555"
+ },
+ {
+  "ID": "LOC755",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Bone",
+  "Kecamatan": "Kecamatan Tonra",
+  "Desa": "Desa Bulubulu",
+  "Koordinat": "-4.91274345394433,120.301407826983"
+ },
+ {
+  "ID": "LOC756",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Bulu Kumba",
+  "Kecamatan": "Kecamatan Bontotiro",
+  "Desa": "Desa Tritiro",
+  "Koordinat": "-5.49887092310249,120.433198679529"
+ },
+ {
+  "ID": "LOC757",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Gowa",
+  "Kecamatan": "Kecamatan Bonto Lempangan",
+  "Desa": "Desa Bonto Tanga",
+  "Koordinat": "-5.40447222222222,119.822111111111"
+ },
+ {
+  "ID": "LOC758",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Gowa",
+  "Kecamatan": "Kecamatan Bungaya",
+  "Desa": "Desa Bontomanai",
+  "Koordinat": "-5.35077718667402,119.714942871163"
+ },
+ {
+  "ID": "LOC759",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Jeneponto",
+  "Kecamatan": "Kecamatan Arungkeke",
+  "Desa": "Desa Kampala",
+  "Koordinat": "-5.69775,119.781777777777"
+ },
+ {
+  "ID": "LOC760",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Jeneponto",
+  "Kecamatan": "Kecamatan Bangkala",
+  "Desa": "Desa Bontomanai",
+  "Koordinat": "-5.55802811747822,119.607012142124"
+ },
+ {
+  "ID": "LOC761",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Jeneponto",
+  "Kecamatan": "Kecamatan Bontoramba",
+  "Desa": "Desa Batu Jala",
+  "Koordinat": "-5.56915351065775,119.655635998147"
+ },
+ {
+  "ID": "LOC762",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Jeneponto",
+  "Kecamatan": "Kecamatan Tamaleta",
+  "Desa": "Kelurahan Tontrokassi Barat",
+  "Koordinat": "-5.59886111111111,119.620472222222"
+ },
+ {
+  "ID": "LOC763",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Jeneponto",
+  "Kecamatan": "Kecamatan Tarowang",
+  "Desa": "Desa Bontorappo",
+  "Koordinat": "-5.59791666666666,119.828027777777"
+ },
+ {
+  "ID": "LOC764",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Luwu Utara",
+  "Kecamatan": "Kecamatan Sabang",
+  "Desa": "Desa Tete Uri",
+  "Koordinat": "-2.73044444444444,120.222138888888"
+ },
+ {
+  "ID": "LOC765",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Maros",
+  "Kecamatan": "Kecamatan Malawa",
+  "Desa": "Desa Sabila",
+  "Koordinat": "-4.86027777777777,119.909111111111"
+ },
+ {
+  "ID": "LOC766",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Maros",
+  "Kecamatan": "Kecamatan Marusu",
+  "Desa": "Desa Nisombalia",
+  "Koordinat": "-5.03740184017063,119.495472954155"
+ },
+ {
+  "ID": "LOC767",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Maros",
+  "Kecamatan": "Kecamatan Simbang",
+  "Desa": "Desa Bontotallasa",
+  "Koordinat": "-5.02191064196894,119.59796998323"
+ },
+ {
+  "ID": "LOC768",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Maros",
+  "Kecamatan": "Kecamatan Tompobulu",
+  "Desa": "Desa Pucak",
+  "Koordinat": "-5.15594444444444,119.686861111111"
+ },
+ {
+  "ID": "LOC769",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Pangkajane",
+  "Kecamatan": "Kecamatan Labakkang",
+  "Desa": "Desa Bara Batu",
+  "Koordinat": "-4.75275,119.604166666666"
+ },
+ {
+  "ID": "LOC770",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Pangkajene",
+  "Kecamatan": "Kecamatan Balocci",
+  "Desa": "Desa Balocci Baru",
+  "Koordinat": "-4.90397222222222,119.650472222222"
+ },
+ {
+  "ID": "LOC771",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Pangkajene",
+  "Kecamatan": "Kecamatan Mandale",
+  "Desa": "Desa Coppo Tompong",
+  "Koordinat": "-4.58641666666666,119.612444444444"
+ },
+ {
+  "ID": "LOC772",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Pinang",
+  "Kecamatan": "Kecamatan Patampanua",
+  "Desa": "Sipatuo",
+  "Koordinat": "-3.70455555555555,119.705027777777"
+ },
+ {
+  "ID": "LOC773",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Soppeng",
+  "Kecamatan": "Kecamatan Donrodonri",
+  "Desa": "Desa Lalabata Riaja",
+  "Koordinat": "-4.53166666666666,120.108055555555"
+ },
+ {
+  "ID": "LOC774",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Soppeng",
+  "Kecamatan": "Kecamatan Ganra",
+  "Desa": "Desa Ganra",
+  "Koordinat": "-4.32333333333333,119.930638888888"
+ },
+ {
+  "ID": "LOC775",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Soppeng",
+  "Kecamatan": "Kecamatan Lalabata",
+  "Desa": "Desa Ompo",
+  "Koordinat": "-4.32808561698619,119.871903839478"
+ },
+ {
+  "ID": "LOC776",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Soppeng",
+  "Kecamatan": "Kecamatan Lalabata",
+  "Desa": "Kelurahan Lapajung",
+  "Koordinat": "-4.33959798840344,119.876230895307"
+ },
+ {
+  "ID": "LOC777",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Soppeng",
+  "Kecamatan": "Kecamatan Liliraja",
+  "Desa": "Desa Timusu",
+  "Koordinat": "-4.42561111111111,119.920444444444"
+ },
+ {
+  "ID": "LOC778",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Soppeng",
+  "Kecamatan": "Kecamatan Lilirilau",
+  "Desa": "Desa Ujung",
+  "Koordinat": "-4.33805954376553,120.002057455819"
+ },
+ {
+  "ID": "LOC779",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Soppeng",
+  "Kecamatan": "Kecamatan Mario Riwawu",
+  "Desa": "Desa Gorie",
+  "Koordinat": "-4.52437238281396,119.956427523702"
+ },
+ {
+  "ID": "LOC780",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Takalar",
+  "Kecamatan": "Kecamatan Mangarak Bombang",
+  "Desa": "Desa Cikoang",
+  "Koordinat": "-5.54413040573762,119.438989271163"
+ },
+ {
+  "ID": "LOC781",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Takalar",
+  "Kecamatan": "Kecamatan Polombangkeng Selatan",
+  "Desa": "Desa Surulangi",
+  "Koordinat": "-5.43988888888888,119.51725"
+ },
+ {
+  "ID": "LOC782",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Takalar",
+  "Kecamatan": "Kecamatan Polombangkeng Utara",
+  "Desa": "Desa Kampung Berru",
+  "Koordinat": "-5.32872222222222,119.526194444444"
+ },
+ {
+  "ID": "LOC783",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Takalar",
+  "Kecamatan": "Kecamatan Polong Bangkeng Selatan",
+  "Desa": "Desa Cakura",
+  "Koordinat": "-5.43372222222222,119.509805555555"
+ },
+ {
+  "ID": "LOC784",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Wajo",
+  "Kecamatan": "Kecamatan Pamana",
+  "Desa": "Desa Lapauke",
+  "Koordinat": "-4.25003964587604,120.066862441104"
+ },
+ {
+  "ID": "LOC785",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Wajo",
+  "Kecamatan": "Kecamatan Sajoangin",
+  "Desa": "Desa Akkajeng",
+  "Koordinat": "-4.03883925132724,120.325951654043"
+ },
+ {
+  "ID": "LOC786",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Wajo",
+  "Kecamatan": "Kecamatan Sajoangin",
+  "Desa": "Desa Barangmamasa",
+  "Koordinat": "-3.93961111111111,120.302027777777"
+ },
+ {
+  "ID": "LOC787",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Wajo",
+  "Kecamatan": "Kecamatan Tanasitolo",
+  "Desa": "Desa Wewangrewu",
+  "Koordinat": "-4.06152777777777,120.072361111111"
+ },
+ {
+  "ID": "LOC788",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Wajo",
+  "Kecamatan": "Kecamatan Tanasitolo",
+  "Desa": "Desa Wajoriaja",
+  "Koordinat": "-4.09480555555555,120.065416666666"
+ },
+ {
+  "ID": "LOC789",
+  "Provinsi": "Sulawesi Selatan",
+  "Wilayah": "Kabupaten Wajo",
+  "Kecamatan": "Kecamatan Tempe",
+  "Desa": "Desa Pattirosompe",
+  "Koordinat": "-4.12964569333139,120.06188856491"
+ },
+ {
+  "ID": "LOC790",
+  "Provinsi": "Sulawesi Tengah",
+  "Wilayah": "Kabupaten Buol",
+  "Kecamatan": "Kecamatan Bokat",
+  "Desa": "Desa Poongan",
+  "Koordinat": "1.03467656678685,121.542897098147"
+ },
+ {
+  "ID": "LOC791",
+  "Provinsi": "Sulawesi Tengah",
+  "Wilayah": "Kota Palu",
+  "Kecamatan": "Kecamatan Mantikulore",
+  "Desa": "Desa Kawatuna",
+  "Koordinat": "-1.05361111111111,120.066388888888"
+ },
+ {
+  "ID": "LOC792",
+  "Provinsi": "Sulawesi Tengah",
+  "Wilayah": "Kabupaten Parigi Mountong 1",
+  "Kecamatan": "Kecamatan Bolano",
+  "Desa": "Desa Bajo",
+  "Koordinat": "0,424066,120.953.303"
+ },
+ {
+  "ID": "LOC793",
+  "Provinsi": "Sulawesi Tengah",
+  "Wilayah": "Kabupaten Parigi Moutong",
+  "Kecamatan": "Kecamatan Tinambo",
+  "Desa": "Desa Dongkas",
+  "Koordinat": "0.355188729446841,120.252080869311"
+ },
+ {
+  "ID": "LOC794",
+  "Provinsi": "Sulawesi Tengah",
+  "Wilayah": "Kabupaten Sigi",
+  "Kecamatan": "Kecamatan Dolo Barat",
+  "Desa": "Desa Balaroa Pewunu",
+  "Koordinat": "-1.02304814899574,119.856636369311"
+ },
+ {
+  "ID": "LOC795",
+  "Provinsi": "Sulawesi Tengah",
+  "Wilayah": "Kabupaten Toli Toli",
+  "Kecamatan": "Kecamatan Galang",
+  "Desa": "Desa Gununggung",
+  "Koordinat": "1.10955009932478,120.783352628384"
+ },
+ {
+  "ID": "LOC796",
+  "Provinsi": "Sulawesi Tenggara",
+  "Wilayah": "Kabupaten Bombana",
+  "Kecamatan": "Kecamatan Poleang Selatan",
+  "Desa": "Desa Batu Putih",
+  "Koordinat": "-4.80156388888888,121.641602777777"
+ },
+ {
+  "ID": "LOC797",
+  "Provinsi": "Sulawesi Tenggara",
+  "Wilayah": "Kabupaten Bombana",
+  "Kecamatan": "Kecamatan Rorowatu",
+  "Desa": "Desa Hukakea",
+  "Koordinat": "-4.67840499718104,122.000115622549"
+ },
+ {
+  "ID": "LOC798",
+  "Provinsi": "Sulawesi Tenggara",
+  "Wilayah": "Kabupaten Bumbana",
+  "Kecamatan": "Kecamatan Poleang Selatan",
+  "Desa": "Desa Waemputtang",
+  "Koordinat": "-4.8227213330716,121.668627466032"
+ },
+ {
+  "ID": "LOC799",
+  "Provinsi": "Sulawesi Tenggara",
+  "Wilayah": "Kabupaten Buton Utara",
+  "Kecamatan": "Kecamatan Kalisusu",
+  "Desa": "Desa Ereke",
+  "Koordinat": "-4.77210737321915,123.177133431886"
+ },
+ {
+  "ID": "LOC800",
+  "Provinsi": "Sulawesi Tenggara",
+  "Wilayah": "Kabupaten Buton Utara",
+  "Kecamatan": "Kecamatan Kulisusu",
+  "Desa": "Desa Eelahaji",
+  "Koordinat": "-4.743954895485,123.177418607776"
+ },
+ {
+  "ID": "LOC801",
+  "Provinsi": "Sulawesi Tenggara",
+  "Wilayah": "Kabupaten Kolaka Utara",
+  "Kecamatan": "Kecamatan Lambai",
+  "Desa": "Desa Tebongeano",
+  "Koordinat": "-3.56540277777777,120.980416666666"
+ },
+ {
+  "ID": "LOC802",
+  "Provinsi": "Sulawesi Tenggara",
+  "Wilayah": "Kabupaten Kolaka Utara",
+  "Kecamatan": "Kecamatan Pakue Utara",
+  "Desa": "Desa Lawata",
+  "Koordinat": "-3.09355583780208,121.066126994447"
+ },
+ {
+  "ID": "LOC803",
+  "Provinsi": "Sulawesi Tenggara",
+  "Wilayah": "Kabupaten Kolaka",
+  "Kecamatan": "Kecamatan Watubanga",
+  "Desa": "Desa Peoho",
+  "Koordinat": "-4.499,121.572833333333"
+ },
+ {
+  "ID": "LOC804",
+  "Provinsi": "Sulawesi Tenggara",
+  "Wilayah": "Kabupaten Kolaka",
+  "Kecamatan": "Kecamatan Watubangga",
+  "Desa": "Desa Kastura",
+  "Koordinat": "-4.49631170848689,121.626466393013"
+ },
+ {
+  "ID": "LOC805",
+  "Provinsi": "Sulawesi Tenggara",
+  "Wilayah": "Kabupaten Konawe",
+  "Kecamatan": "Kecamatan Anggalamoare",
+  "Desa": "Desa Anggalamoare Jaya",
+  "Koordinat": "-3.96663815949788,122.43073558293"
+ },
+ {
+  "ID": "LOC806",
+  "Provinsi": "Sulawesi Tenggara",
+  "Wilayah": "Kabupaten Konawe",
+  "Kecamatan": "Kecamatan Meluhu",
+  "Desa": "Desa Samba Sule",
+  "Koordinat": "-3.82197222222222,122.190027777777"
+ },
+ {
+  "ID": "LOC807",
+  "Provinsi": "Sulawesi Tenggara",
+  "Wilayah": "Kabupaten Pombana",
+  "Kecamatan": "Kecamatan Rorowatu Utara",
+  "Desa": "Desa Watumentade",
+  "Koordinat": "-4.69216666666666,122.0175"
+ },
+ {
+  "ID": "LOC808",
+  "Provinsi": "Sulawesi Tenggara",
+  "Wilayah": "Kabupaten Wakatobi",
+  "Kecamatan": "Kecamatan Wangi- Wangi",
+  "Desa": "Desa Tindoi Timur",
+  "Koordinat": "-5.27509233924256,123.544299170269"
+ },
+ {
+  "ID": "LOC809",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kabupaten B.Mongondow",
+  "Kecamatan": "Kecamatan Sangtom Bolang",
+  "Desa": "Desa Pasir Putih",
+  "Koordinat": "0.824428471869626,123.758404077884"
+ },
+ {
+  "ID": "LOC810",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kota Bitung",
+  "Kecamatan": "Kecamatan Lembeh Selatan",
+  "Desa": "Desa Paudean",
+  "Koordinat": "1.42119116035871,125.183672366015"
+ },
+ {
+  "ID": "LOC811",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kota Bitung",
+  "Kecamatan": "Kecamatan Lembeh Utara",
+  "Desa": "Desa Nusu",
+  "Koordinat": "1.52672364929903,125.28222092554"
+ },
+ {
+  "ID": "LOC812",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kota Bitung",
+  "Kecamatan": "Kecamatan Lembeh Utara",
+  "Desa": "Kelurahan Lirang",
+  "Koordinat": "1.54123027258924,125.290996013901"
+ },
+ {
+  "ID": "LOC813",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kota Bitung",
+  "Kecamatan": "Kecamatan Maesa",
+  "Desa": "Kelurahan Kekenturan Satu",
+  "Koordinat": "1.46001245635765,125.193236471163"
+ },
+ {
+  "ID": "LOC814",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kabupaten Bolaa Mongondow",
+  "Kecamatan": "Kecamatan Bilalang",
+  "Desa": "Desa Bilalang Baru",
+  "Koordinat": "0.785011167498792,124.319770074475"
+ },
+ {
+  "ID": "LOC815",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kabupaten Bolaang Mongondow",
+  "Kecamatan": "Kecamatan Lolak",
+  "Desa": "Desa Tuyat",
+  "Koordinat": "0.875888888888888,124.056805555555"
+ },
+ {
+  "ID": "LOC816",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kabupaten Buton Utara",
+  "Kecamatan": "Kecamatan Sampo Lawu",
+  "Desa": "Desa Lipu Manggau",
+  "Koordinat": "-5.56165401199825,122.716402001212"
+ },
+ {
+  "ID": "LOC817",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kota Bitung",
+  "Kecamatan": "Kecamatan Lembeh Selatan",
+  "Desa": "Kelurahan Pasir Panjang",
+  "Koordinat": "1.401368,125.18735"
+ },
+ {
+  "ID": "LOC818",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kota Mobagu",
+  "Kecamatan": "Kecamatan Bilalang",
+  "Desa": "Desa Tudu Aog",
+  "Koordinat": "0.80525,124.337055555555"
+ },
+ {
+  "ID": "LOC819",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kabupaten Minahasa Selatan",
+  "Kecamatan": "Kecamatan Amurang Timur",
+  "Desa": "Desa Maliku",
+  "Koordinat": "1.20623498209342,124.669248584674"
+ },
+ {
+  "ID": "LOC820",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kabupaten Minahasa Selatan",
+  "Kecamatan": "Kecamatan Motoling",
+  "Desa": "Desa Karimbow",
+  "Koordinat": "1.08834074561932,124.523993657672"
+ },
+ {
+  "ID": "LOC821",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kabupaten Minahasa Selatan",
+  "Kecamatan": "Kecamatan Sulu un Tareran",
+  "Desa": "Desa Pinapalangkow",
+  "Koordinat": "1.27148541075708,124.684383437179"
+ },
+ {
+  "ID": "LOC822",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kabupaten Minahasa Selatan",
+  "Kecamatan": "Kecamatan Tumpaan",
+  "Desa": "Desa Wawontulap",
+  "Koordinat": "1.32030555555555,124.518055555555"
+ },
+ {
+  "ID": "LOC823",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kabupaten Minahasa Utara",
+  "Kecamatan": "Kecamatan Kauditan",
+  "Desa": "Desa Kauditan",
+  "Koordinat": "1.40084564795867,125.045328390617"
+ },
+ {
+  "ID": "LOC824",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kabupaten Minahasa Utara",
+  "Kecamatan": "Kecamatan Talawaan",
+  "Desa": "Desa Warisa Kampung Baru",
+  "Koordinat": "1.60797231784024,124.953410481409"
+ },
+ {
+  "ID": "LOC825",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kabupaten Minahasa Utara",
+  "Kecamatan": "Kecamatan Wori",
+  "Desa": "Desa Kimabajo",
+  "Koordinat": "1.60358199057541,124.880875169527"
+ },
+ {
+  "ID": "LOC826",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kabupaten Minahasa Utara",
+  "Kecamatan": "Kecamatan Wori",
+  "Desa": "Desa Kulu",
+  "Koordinat": "1.67011111111111,124.954527777777"
+ },
+ {
+  "ID": "LOC827",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kabupaten Minahasa",
+  "Kecamatan": "Kecamatan Kawangkoan Barat",
+  "Desa": "Desa Kayuwi Satu",
+  "Koordinat": "-1.401153,124.773923"
+ },
+ {
+  "ID": "LOC828",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kabupaten Minahasa",
+  "Kecamatan": "Kecamatan Likupang",
+  "Desa": "Desa Maen",
+  "Koordinat": "1.6593300805733,125.11315121443"
+ },
+ {
+  "ID": "LOC829",
+  "Provinsi": "Sulawesi Utara",
+  "Wilayah": "Kabupaten Minahasa",
+  "Kecamatan": "Kecamatan Tobariri",
+  "Desa": "Desa Teling",
+  "Koordinat": "1.41105555555555,124.612694444444"
+ },
+ {
+  "ID": "LOC830",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Agam",
+  "Kecamatan": "Kecamatan Baso",
+  "Desa": "Desa Padang Tarok",
+  "Koordinat": "-0.266066,100.521869"
+ },
+ {
+  "ID": "LOC831",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Agam",
+  "Kecamatan": "Kecamatan Kamang Magek",
+  "Desa": "Desa Kamang Mudiak",
+  "Koordinat": "-0.211771795,100.3954053"
+ },
+ {
+  "ID": "LOC832",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Agam",
+  "Kecamatan": "Kecamatan Matur",
+  "Desa": "Desa Tigo Balai",
+  "Koordinat": "-0.309166667,100.445"
+ },
+ {
+  "ID": "LOC833",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Agam",
+  "Kecamatan": "Kecamatan Palembayan",
+  "Desa": "Desa Salareh",
+  "Koordinat": "-0.101716075,100.05375"
+ },
+ {
+  "ID": "LOC834",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kota Bukittinggi",
+  "Kecamatan": "Kecamatan Guguak Panjang",
+  "Desa": "Kelurahan Bukit Apit Puhun",
+  "Koordinat": "-0.297498554,100.3576649"
+ },
+ {
+  "ID": "LOC835",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kota Padang",
+  "Kecamatan": "Kecamatan Koto Tengah",
+  "Desa": "Kelurahan Batipung Panjang",
+  "Koordinat": "-0.816338426,100.3321299"
+ },
+ {
+  "ID": "LOC836",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kota Sawah Lunto",
+  "Kecamatan": "Kecamatan Silungkang",
+  "Desa": "Desa Muaro Kalaban",
+  "Koordinat": "-0.700971488,100.7794168"
+ },
+ {
+  "ID": "LOC837",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Padang Pariaman",
+  "Kecamatan": "Kecamatan Enam Lingkung",
+  "Desa": "Desa Toboh Ketek",
+  "Koordinat": "-0.610106542,100.2479224"
+ },
+ {
+  "ID": "LOC838",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Padang Pariaman",
+  "Kecamatan": "Kecamatan IV Koto Aur Malintang",
+  "Desa": "Desa Nagari III Koto Aur Malintang",
+  "Koordinat": "-0.338277778,100.0715"
+ },
+ {
+  "ID": "LOC839",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Padang Pariaman",
+  "Kecamatan": "Kecamatan VII Koto Sungai Sarik",
+  "Desa": "Desa Ambung Kapur Sungai Sariak",
+  "Koordinat": "-0.564257953,100.2001644"
+ },
+ {
+  "ID": "LOC840",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Pasaman Barat",
+  "Kecamatan": "Kecamatan Sungai Alur",
+  "Desa": "Desa Sungai Alur",
+  "Koordinat": "0.230244623,99.62220413"
+ },
+ {
+  "ID": "LOC841",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Pasaman",
+  "Kecamatan": "Kecamatan Duo Koto",
+  "Desa": "Desa Cubadak",
+  "Koordinat": "0.350675859,99.85160579"
+ },
+ {
+  "ID": "LOC842",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Pasaman",
+  "Kecamatan": "Kecamatan Rao",
+  "Desa": "Desa Tarung Tarung",
+  "Koordinat": "0.559668797,100.0176443"
+ },
+ {
+  "ID": "LOC843",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Pesisir Selatan",
+  "Kecamatan": "Kecamatan Airpura",
+  "Desa": "Desa Indrapura Timur",
+  "Koordinat": "-2.044577778,100.9561667"
+ },
+ {
+  "ID": "LOC844",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Pesisir Selatan",
+  "Kecamatan": "Kecamatan Bayang",
+  "Desa": "Desa Koto Barapak",
+  "Koordinat": "-1.227290583,100.5483277"
+ },
+ {
+  "ID": "LOC845",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Pesisir Selatan",
+  "Kecamatan": "Kecamatan Koto XI Tarusan",
+  "Desa": "Desa Batu Hampar Selatan",
+  "Koordinat": "-1.236583333,100.4844722"
+ },
+ {
+  "ID": "LOC846",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Pesisir Selatan",
+  "Kecamatan": "Kecamatan Sutera",
+  "Desa": "Desa Amping Parak Timur",
+  "Koordinat": "-1.572929692,100.7209171"
+ },
+ {
+  "ID": "LOC847",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Sijunjung",
+  "Kecamatan": "Kecamatan Kamang Baru",
+  "Desa": "Desa Nagari Kunangan Parik Rantang",
+  "Koordinat": "-0.868686922,101.3777282"
+ },
+ {
+  "ID": "LOC848",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Sijunjung",
+  "Kecamatan": "Kecamatan IV Nagari",
+  "Desa": "Desa Muaro Bodi",
+  "Koordinat": "-0.69510117,100.8834661"
+ },
+ {
+  "ID": "LOC849",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Sijunjung",
+  "Kecamatan": "Kecamatan IV Nagari",
+  "Desa": "Desa Muaro Bodi",
+  "Koordinat": "-0.706361111,100.8824722"
+ },
+ {
+  "ID": "LOC850",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Sijunjung",
+  "Kecamatan": "Kecamatan Kamang Baru",
+  "Desa": "Desa Kunangan Parit Rantang",
+  "Koordinat": "-0.868722222,100.3777222"
+ },
+ {
+  "ID": "LOC851",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Sijunjung",
+  "Kecamatan": "Kecamatan Sijunjung",
+  "Desa": "Desa Muaro",
+  "Koordinat": "-0.567408863,100.9826782"
+ },
+ {
+  "ID": "LOC852",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Sijunjung",
+  "Kecamatan": "Kecamatan Sijunjung",
+  "Desa": "Desa Jorong Ganting",
+  "Koordinat": "-0.739444444,100.9844444"
+ },
+ {
+  "ID": "LOC853",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Solok Selatan 2",
+  "Kecamatan": "Kecamatan Sangir Balaejanggo",
+  "Desa": "Desa Sey Kunyit",
+  "Koordinat": "-1.346813543,101.5616758"
+ },
+ {
+  "ID": "LOC854",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Solok Selatan",
+  "Kecamatan": "Kecamatan Sangir Batanghari",
+  "Desa": "Desa Dusun Tengah",
+  "Koordinat": "-1.224373009,101.4188257"
+ },
+ {
+  "ID": "LOC855",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Agam",
+  "Kecamatan": "Kecamatan Lubuk Basung",
+  "Desa": "Desa Manggopoh",
+  "Koordinat": "-0.260194444,99.98308333"
+ },
+ {
+  "ID": "LOC856",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Dhamasraya",
+  "Kecamatan": "Kecamatan Pulau Punjung",
+  "Desa": "Desa Nagari Sikabau",
+  "Koordinat": "-0.999322766,101.4853203"
+ },
+ {
+  "ID": "LOC857",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Dharmasraya",
+  "Kecamatan": "Kecamatan Koto Baru",
+  "Desa": "Desa Koto Baru",
+  "Koordinat": "-1.11825,101.7266389"
+ },
+ {
+  "ID": "LOC858",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kota Bukit Tinggi",
+  "Kecamatan": "Kecamatan Mandiangin koto Selayan",
+  "Desa": "Kelurahan Kubu Gulai Bancah",
+  "Koordinat": "-0.285388889,100.3634167"
+ },
+ {
+  "ID": "LOC859",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Lima Puluh Kota",
+  "Kecamatan": "Kecamatan Bukik Barisan",
+  "Desa": "Desa Sungai Naniang",
+  "Koordinat": "-0.017750737,100.3976328"
+ },
+ {
+  "ID": "LOC860",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Lima Puluh Kota",
+  "Kecamatan": "Kecamatan Luak",
+  "Desa": "Desa Mungo",
+  "Koordinat": "-0.265583333,100.6941111"
+ },
+ {
+  "ID": "LOC861",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Lima Puluh Kota",
+  "Kecamatan": "Kecamatan Payakumbuh",
+  "Desa": "Desa Nagari Koto Tengah Simalanggang",
+  "Koordinat": "-0.163141577,100.6028618"
+ },
+ {
+  "ID": "LOC862",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Limapuluh Kota",
+  "Kecamatan": "Kecamatan Lereh Sago Halaban",
+  "Desa": "Desa Labuah Gunuang",
+  "Koordinat": "-0.287055556,100.7126944"
+ },
+ {
+  "ID": "LOC863",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Padang Pariaman",
+  "Kecamatan": "Kecamatan VI Lingkung",
+  "Desa": "Desa Pakandangan",
+  "Koordinat": "-0.618895489,100.2587377"
+ },
+ {
+  "ID": "LOC864",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Padang Pariaman",
+  "Kecamatan": "Kecamatan VII Koto Sungai Sarik",
+  "Desa": "Desa NagariBalah Aie",
+  "Koordinat": "-0.62031,100.204578"
+ },
+ {
+  "ID": "LOC865",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Pasaman Barat",
+  "Kecamatan": "Kecamatan Gunung Tuleh",
+  "Desa": "Desa Rabi Jonggor",
+  "Koordinat": "0.314944444,99.68258333"
+ },
+ {
+  "ID": "LOC866",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Pasaman Barat",
+  "Kecamatan": "Kecamatan Koto Balingka",
+  "Desa": "Desa Jorong Air Jernih",
+  "Koordinat": "0.212619599,99.49676194"
+ },
+ {
+  "ID": "LOC867",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Pesisir Selatan",
+  "Kecamatan": "Kecamatan Koto XI Tarusan",
+  "Desa": "Desa Nanggalo",
+  "Koordinat": "-1.245486111,100.4727111"
+ },
+ {
+  "ID": "LOC868",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Pesisir Selatan",
+  "Kecamatan": "Kecamatan Silaut",
+  "Desa": "Desa Sungai Sirah",
+  "Koordinat": "-2.391530091,101.0509689"
+ },
+ {
+  "ID": "LOC869",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Solo",
+  "Kecamatan": "Kecamatan X Koto Di Atas",
+  "Desa": "Desa Tanjung Balik",
+  "Koordinat": "-0.645472222,100.6606111"
+ },
+ {
+  "ID": "LOC870",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Solok",
+  "Kecamatan": "Kecamatan X Koto Diatas",
+  "Desa": "Desa Kacang",
+  "Koordinat": "-0.696666667,100.7113889"
+ },
+ {
+  "ID": "LOC871",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Solok",
+  "Kecamatan": "Kecamatan X Koto Diatas",
+  "Desa": "Desa Paninjauan",
+  "Koordinat": "-0.665206264,100.6454062"
+ },
+ {
+  "ID": "LOC872",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Solok",
+  "Kecamatan": "Kecamatan X Koto Singkarak",
+  "Desa": "Desa Nagari Aripan",
+  "Koordinat": "-0.697777778,100.9418111"
+ },
+ {
+  "ID": "LOC873",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Tanah Datar",
+  "Kecamatan": "Kecamatan Rambatan",
+  "Desa": "Desa Pabalutan",
+  "Koordinat": "-0.482119388,100.5680674"
+ },
+ {
+  "ID": "LOC874",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Tanah Datar",
+  "Kecamatan": "Kecamatan Salimpaung",
+  "Desa": "Desa Pasir Sutumbuk",
+  "Koordinat": "-0.349580613,100.5829471"
+ },
+ {
+  "ID": "LOC875",
+  "Provinsi": "Sumatra Barat",
+  "Wilayah": "Kabupaten Tanah Datar",
+  "Kecamatan": "Kecamatan V Kaum",
+  "Desa": "Desa Labuah",
+  "Koordinat": "-0.446111111,100.5428056"
+ }
+]
